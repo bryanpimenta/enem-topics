@@ -1,0 +1,336 @@
+[
+    {
+        "Conceitos da Geografia": [
+            "Introdução à Geografia - Conceitos",
+            "Conceitos da Geografia - Conceitos"
+        ]
+    },
+    {
+        "Terra": [
+            "Movimentos da Terra - Movimentos da Terra",
+            "Orientação e Localização Geográfica - Orientação e Localização Geográfica",
+            "Coordenadas Geográficas - Orientação e Localização Geográfica"
+        ]
+    },
+    {
+        "Cartografia e Geoprocessamento": [
+            "Projeções Cartográficas - Cartografia",
+            "Convenções Cartográficas - Cartografia",
+            "Escalas Cartográficas - Cartografia",
+            "Sistemas de Informações Geográficas - Sistema de Informação Geográfica"
+        ]
+    },
+    {
+        "Fuso Horário": [
+            "Fuso Horário - Fuso Horário",
+            "Fuso Horário Brasileiro - Fuso Horário",
+            "Fuso Horário na Prática - Fuso Horário"
+        ]
+    },
+    {
+        "Espaço Brasileiro": [
+            "Brasil: Dimensões e Territórios - Território e Regiões",
+            "As Divisões Regionais - Território e Regiões"
+        ]
+    },
+    {
+        "Geologia": [
+            "Origem da Terra - Origem da Terra",
+            "Tectonismo - Placas Tectônicas",
+            "Terremotos e Abalos Sísmicos - Placas Tectônicas",
+            "Rochas I - Rochas",
+            "Rochas II - Rochas",
+            "Eras Geológicas I - Eras Geológicas",
+            "Eras Geológicas II - Eras Geológicas",
+            "Geologia do Brasil - Geologia do Brasil"
+        ]
+    },
+    {
+        "Geomorfologia": [
+            "Agentes internos do relevo - Relevo",
+            "Agentes externos do relevo I - Relevo",
+            "Agentes externos do relevo II - Relevo",
+            "Geomorfologia do Brasil - Relevo do Brasil"
+        ]
+    },
+    {
+        "Minérios e Minerais": [
+            "Recursos Minerais - Recursos Minerais",
+            "Recursos Minerais do Brasil I - Recursos Minerais",
+            "Recursos Minerais do Brasil II - Recursos Minerais"
+        ]
+    },
+    {
+        "Clima": [
+            "Atmosfera - A Atmosfera",
+            "Fatores e Determinantes do Clima I - A Atmosfera",
+            "Fatores e Determinantes do Clima II - A Atmosfera",
+            "Elementos Climáticos I - Elementos Climáticos",
+            "Elementos Climáticos II - Elementos Climáticos",
+            "Elementos Climáticos III - Elementos Climáticos",
+            "Climas Mundiais I - Climas Mundiais",
+            "Climas Mundiais II - Climas Mundiais",
+            "Fenômenos Atmosféricos I - Fenômenos Atmosféricos",
+            "Fenômenos Atmosféricos II - Fenômenos Atmosféricos",
+            "Climas do Brasil I - Climas do Brasil",
+            "Climas do Brasil II - Climas do Brasil"
+        ]
+    },
+    {
+        "Hidrosfera": [
+            "Oceanos e Mares - Hidrosfera",
+            "Rios - Hidrosfera",
+            "Usos da Água I - Recursos Hídricos",
+            "Usos da Água II - Recursos Hídricos",
+            "Regiões Hidrográficas do Brasil I - Hidrografia do Brasil",
+            "Regiões Hidrográficas do Brasil II - Hidrografia do Brasil"
+        ]
+    },
+    {
+        "Biomas": [
+            "Os Grandes Biomas I - Os Grandes Biomas",
+            "Os Grandes Biomas II - Os Grandes Biomas",
+            "Biomas e Ecossistemas Brasileiros I - Biomas e Ecossistemas Brasileiros",
+            "Biomas e Ecossistemas Brasileiros II - Biomas e Ecossistemas Brasileiros"
+        ]
+    },
+    {
+        "Domínios Morfoclimáticos": [
+            "Introdução e Conceitos Morfoclimáticos do Brasil - Domínios Morfoclimáticos Brasileiros",
+            "Pradarias - Caatinga, Pradaria e Cerrado",
+            "Caatinga - Caatinga, Pradaria e Cerrado",
+            "Cerrado - Caatinga, Pradaria e Cerrado",
+            "Mares de Morros - Mares de Morros e Mata de Araucárias",
+            "Mata de Araucárias - Mares de Morros e Mata de Araucárias",
+            "Domínio Amazônico I - A Amazônia",
+            "Domínio Amazônico II - A Amazônia",
+            "As Faixas de Transição - A Amazônia"
+        ]
+    },
+    {
+        "Solos": [
+            "Solos I - Solos",
+            "Solos II - Solos"
+        ]
+    },
+    {
+        "Espaço Agrário": [
+            "Os Sistemas Agrícolas - Agricultura",
+            "Conceitos de Agricultura - Agricultura",
+            "Agricultura Mundial - Agricultura no Mundo e Revolução Verde",
+            "Agricultura e o Comércio Global - Agricultura no Mundo e Revolução Verde",
+            "Revolução Verde e a Modernização do Campo - Agricultura no Mundo e Revolução Verde",
+            "Questão Fundiária do Brasil I - Questão Fundiária no Brasil",
+            "Questão Fundiária do Brasil II - Questão Fundiária no Brasil",
+            "Conflitos Agrários no Brasil - Conflitos Agrários no Brasil",
+            "Produção Agrícola Brasileira I - Produção Agrícola e Pecuária no Brasil",
+            "Produção Agrícola Brasileira II - Produção Agrícola e Pecuária no Brasil",
+            "Produção Pecuária Brasileira - Produção Agrícola e Pecuária no Brasil"
+        ]
+    },
+    {
+        "Indústria": [
+            "1º Revolução Industrial - Revolução Industrial",
+            "2° Revolução Industrial - Revolução Industrial",
+            "3° Revolução Industrial - Revolução Industrial",
+            "Indústria no Brasil I - Indústria no Brasil",
+            "Indústria no Brasil II - Indústria no Brasil"
+        ]
+    },
+    {
+        "Espaço Urbano": [
+            "O Conceito de Urbanização - O Conceito de Urbanização",
+            "Nações do Sul e do Norte - Nações do Sul e do Norte e Nomenclaturas das Cidades",
+            "Conceitos e Nomenclatura das Cidades - Nações do Sul e do Norte e Nomenclaturas das Cidades",
+            "A Hierarquia Urbana - Nações do Sul e do Norte e Nomenclaturas das Cidades",
+            "Urbanização Brasileira - Urbanização Brasileira",
+            "Problemas Urbanos I - Problemas Urbanos",
+            "Problemas Urbanos II - Problemas Urbanos"
+        ]
+    },
+    {
+        "Questões Ambientais": [
+            "Questões Ambientais I - Questões Atmosféricas",
+            "Questões Ambientais II - Questões Atmosféricas",
+            "Aquecimento Global I - Aquecimento Global e Rejeitos",
+            "Aquecimento Global II - Aquecimento Global e Rejeitos",
+            "Resíduos e Rejeitos - Aquecimento Global e Rejeitos",
+            "Conferências Ambientais - Conferências Globais"
+        ]
+    },
+    {
+        "Fontes de Energia": [
+            "Energias não renováveis I - Energias Renováveis e Não Renováveis",
+            "Energias não renováveis II - Energias Renováveis e Não Renováveis",
+            "Fontes de Energia Hidrelétricas - Energias Renováveis e Não Renováveis",
+            "Fontes de Energia Renováveis I - Energias Renováveis e Não Renováveis",
+            "Fontes de Energia Renováveis II - Energias Renováveis e Não Renováveis"
+        ]
+    },
+    {
+        "Demografia": [
+            "Panoramas e Conceitos Demográficos - População",
+            "Fases e Crescimento Demográfico - População",
+            "Teorias Demográficas - Teorias Demográficas",
+            "PEA e Economia - Análises Populacionais",
+            "Indicadores Sociais - Análises Populacionais",
+            "Características da População Brasileira I - Características da População Brasileira",
+            "Características da População Brasileira II - Características da População Brasileira",
+            "Tendências Demográficas Globais - Análises Populacionais"
+        ]
+    },
+    {
+        "Migrações": [
+            "Conceitos e Definições Migratórias - Migrações",
+            "Migrações Internas - Imigração e Emigração",
+            "Fluxos Migratórios Mundiais I - Fluxos Migratórios",
+            "Fluxos Migratórios Mundiais II - Fluxos Migratórios"
+        ]
+    },
+    {
+        "Diversidade Étnico-Racial e Pluralismo Religioso": [
+            "Diversidade Étnico Racial I: Judeus, Armênios e Cambojanos - Diversidade Étnico-Racial",
+            "Diversidade Étnico Racial II: EUA e África do Sul - Diversidade Étnico-Racial",
+            "Conflitos Étnicos I: O Genocídio em Ruanda - Conflitos Étnicos",
+            "Conflitos Étnicos II: Genocídio nas Guerras da Iugoslávia - Conflitos Étnicos",
+            "Conflitos e Povos Indígenas no Brasil - Questões Indígenas"
+        ]
+    },
+    {
+        "Geopolítica": [
+            "Velha Ordem Mundial - Ordem Política Mundial",
+            "Nova Ordem Mundial - Ordem Política Mundial",
+            "Globalização I - Globalização",
+            "Globalização II - Globalização",
+            "Globalização: Aspectos Brasileiros - Globalização",
+            "Economia Global e os Mercados Financeiros - Globalização",
+            "O Espaço Industrial Globalizado - Espaço Industrial Globalizado",
+            "Organização das Nações Unidas (ONU) - Organizações Internacionais"
+        ]
+    },
+    {
+        "Blocos Econômicos": [
+            "Introdução: Blocos Econômicos e USMCA - Blocos Econômicos",
+            "Mercosul - Blocos Econômicos",
+            "União Europeia I - Blocos Econômicos",
+            "União Europeia II - Blocos Econômicos"
+        ]
+    },
+    {
+        "Geografia Econômica": [
+            "BRICS - Economia",
+            "Grupo G7 - Economia",
+            "Grupo G20 - Economia",
+            "Políticas Econômicas no Brasil - Economia"
+        ]
+    },
+    {
+        "Transportes, Comércio e Serviços": [
+            "Transportes e Comércio Exterior I - Transportes e Comércio Exterior",
+            "Transportes e Comércio Exterior II - Transportes e Comércio Exterior",
+            "Tecnologia e Redes - Tecnologia e Redes",
+            "Transportes no Brasil I - Transportes no Brasil",
+            "Transportes no Brasil II - Transportes no Brasil",
+            "Setores da Economia I - Comércio e Serviços",
+            "Setores da Economia II - Comércio e Serviços"
+        ]
+    },
+    {
+        "Regiões do Brasil": [
+            "Região Norte - Norte",
+            "Região Nordeste - Nordeste",
+            "Região Centro-Oeste - Centro-Oeste",
+            "Região Sudeste - Sudeste",
+            "Região Sul - Sul"
+        ]
+    },
+    {
+        "Volta ao Mundo": [
+            "Europa I - Europa",
+            "Europa II - Europa",
+            "Europa III - Europa",
+            "Europa: Conflitos - Europa",
+            "Comunidade dos Estados Independentes - Comunidade dos Estados Independentes",
+            "América Anglo-Saxônica - América Anglo-saxônica",
+            "Japão - Japão, China e Tigres Asiáticos",
+            "Tigres Asiáticos - Japão, China e Tigres Asiáticos",
+            "China I - Japão, China e Tigres Asiáticos",
+            "China II - Japão, China e Tigres Asiáticos",
+            "Coreia - Coreias",
+            "Coreia do Sul - Coreias",
+            "Coreia do Norte - Coreias",
+            "Oriente Médio I - Oriente Médio",
+            "Oriente Médio II - Oriente Médio",
+            "Oriente Médio III - Oriente Médio",
+            "África I - África",
+            "África II - África",
+            "África III - África",
+            "México - México, América Central e Caribe",
+            "América Central e Caribe - México, América Central e Caribe",
+            "Cuba - México, América Central e Caribe",
+            "América do Sul I - América do Sul",
+            "América do Sul II - América do Sul",
+            "América do Sul III - América do Sul",
+            "América Andina - América do Sul",
+            "América Platina - América do Sul",
+            "Índia I - Índia",
+            "Índia II - Índia",
+            "Oceania I - Oceania",
+            "Oceania II - Oceania",
+            "Regiões Polares - Regiões Polares"
+        ]
+    },
+    {
+        "Atualidades": [
+            "Uma Lição de Geopolítica - 2024",
+            "O X da polarização - 2024",
+            "Incêndios, Resíduos e Guerras - 2024",
+            "(In)segurança pública novos dados - 2024",
+            "Esporte, Ética, Estado e Nação - 2024",
+            "A Geração Ansiosa - 2024",
+            "GIRO DE ATUALIDADES | REVISÃO DE ATUALIDADES PARA O ENEM 2024 - 2024",
+            "Paris Olímpica, Venezuela e Trump - 2024",
+            "Testes nucleares novamente? - 2024",
+            "Plano Real 30 anos - 2024",
+            "EUA, França e Bolívia: eleições e golpes - 2024",
+            "Recorde de Refugiados - 2024",
+            "PL 1904: a República e a religião - 2024",
+            "Dilapidação: garimpo, praias e petróleo - 2024",
+            "Hamas e Netanyahu na cadeia? - 2024",
+            "A Guerra do Sudão: Você também ignora? - 2024",
+            "Katrina brasileiro? - 2024",
+            "Enchentes no RS - 2024",
+            "Revolução dos Cravos - 2024",
+            "PEC das drogas - 2024",
+            "Brasil no centro do mundo? - 2024",
+            "Furacão Catarina - 2024",
+            "Efemérides 2024 - 2024",
+            "Energia Nuclear é mesmo a vilã? - 2024",
+            "Genocídio em Ruanda: 30 anos - 2024",
+            "Antártica e Ártico: Cadê o gelo que estava aqui? - 2024",
+            "A Guerra de Gaza - 2024",
+            "Saneamento básico no Brasil - 2024",
+            "Revolta do Agro na Europa - 2024",
+            "Dengue no Brasil - 2024",
+            "2024 recorde de eleições - 2024",
+            "Genocídio: Atualidade da Palavra - 2024",
+            "2024: Comece o ano atualizado! - 2024",
+            "Guerra da Ucrânia: a quantas anda? - 2023",
+            "África: Edição Especial - 2023",
+            "Milícias no Rio e a Guerra - 2023",
+            "Eleições na Argentina - 2023",
+            "Guerra no Oriente Médio - 2023",
+            "Israel e Hamas: Nova Guerra - 2023",
+            "Trabalhadores de Aplicativo e a Luta por Direitos - 2023",
+            "Fim do Marco Temporal e 20 anos do Estatuto da Pessoa Idosa - 2023",
+            "G20, Títulos Verdes e Violência na Bahia - 2023",
+            "Antropoceno: Uma Nova Época Geológica? - 2023",
+            "Compreendendo o Cenário Mundial com Ricardo Marcílio - 2023",
+            "Efemérides 2023 - 2023",
+            "Índia na Lua: Nova Corrida Espacial? - 2023",
+            "Fome no Mundo e BRICS - 2023",
+            "Cúpula da Amazônia e Guerra na África - 2023",
+            "Acordo União Europeia-Mercosul e o Caso Marielle Franco - 2023"
+        ]
+    }
+]

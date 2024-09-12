@@ -1,0 +1,198 @@
+[
+    {
+        "Introdução à História Geral": [
+            "Introdução à História Geral - Introdução à História Geral",
+            "Pré-História I - Pré-História",
+            "Pré-História II: América - Pré-História"
+        ]
+    },
+    {
+        "Idade Antiga": [
+            "Civilizações da Mesopotâmia - Civilizações da Mesopotâmia",
+            "Egito Antigo - Egito Antigo",
+            "Fenícios e Persas - Fenícios e os Persas",
+            "Os Hebreus - Hebreus",
+            "Grécia Antiga | Formação e a pólis de Esparta - Grécia Antiga",
+            "Grécia Antiga | Atenas, Democracia e decadência - Grécia Antiga",
+            "Roma Antiga | Monarquia - Roma Antiga",
+            "Roma Antiga | República - Roma Antiga",
+            "Roma Antiga | Império - Roma Antiga"
+        ]
+    },
+    {
+        "Idade Média": [
+            "Reinos Bárbaros - Reinos Bárbaros",
+            "Império Bizantino - Bizantinos",
+            "Alta Idade Média - Alta Idade Média",
+            "Islamismo e o Império Árabe - Islamismo e o Império Árabe",
+            "Igreja Medieval e as Cruzadas - As Cruzadas desativado",
+            "Baixa Idade Média - Baixa Idade Média",
+            "Renascimento Comercial e Urbano - Renascimento Comercial e Urbano"
+        ]
+    },
+    {
+        "Idade Moderna": [
+            "Estados Nacionais Modernos | Formação e Características - Formação dos Estados Nacionais Modernos",
+            "O Mercantilismo - Mercantilismo",
+            "Absolutismo Monárquico: França e Inglaterra - Absolutismo",
+            "Absolutismo Monárquico: Reinos Ibéricos - Mercantilismo",
+            "O Renascimento Cultural I - Renascimento Cultural",
+            "O Renascimento Cultural II - Renascimento Cultural",
+            "As Grandes Navegações - Grandes Navegações",
+            "Reinos Africanos - Reinos africanos e a chegada dos portugueses",
+            "A Chegada dos Portugueses em África - Reinos africanos e a chegada dos portugueses",
+            "América Pré-Colombiana - Colonização da América",
+            "Colonização da América Espanhola - Colonização da América",
+            "Reforma Protestante I - Reformas Religiosas",
+            "A Reforma Protestante II - Reformas Religiosas",
+            "Revoluções Inglesas - Revoluções Inglesas do século XVII",
+            "Iluminismo - Iluminismo",
+            "Independência dos EUA - Independência dos EUA"
+        ]
+    },
+    {
+        "Brasil Colônia": [
+            "Colonização do Brasil - Colonização do Brasil",
+            "Povos Indígenas no Brasil pré-Colonial - Povos Indígenas no Brasil Colonial",
+            "Povos Indígenas no Brasil Colonial - Povos Indígenas no Brasil Colonial",
+            "Formação do Território Brasileiro - Formação do Território Brasileiro",
+            "Escravidão Negra no Brasil Colônia I - Escravidão Negra no Brasil Colônia",
+            "Escravidão Negra no Brasil Colônia II - Escravidão Negra no Brasil Colônia",
+            "Ciclo do Açúcar - Brasil: Ciclo do Açúcar",
+            "Invasões Estrangeiras no Brasil - Invasões Estrangeiras no Brasil Colônia",
+            "Revoltas Nativistas - Revoltas Nativistas",
+            "Ciclo da Mineração - Brasil: Ciclo da Mineração",
+            "Revoltas Emancipacionistas - Brasil: Revoltas Emancipacionistas"
+        ]
+    },
+    {
+        "Idade Contemporânea": [
+            "Revolução Francesa | Contexto pré-revolução - Revolução Francesa",
+            "Revolução Francesa | Eclosão e Primeira Fase - Revolução Francesa",
+            "Revolução Francesa | A Convenção e o Diretório - Revolução Francesa",
+            "Primeira Revolução Industrial - Revolução Industrial",
+            "Era Napoleônica - Era Napoleônica",
+            "Independência da América Espanhola - Independência da América Espanhola",
+            "Congresso de Viena - Congresso de Viena e Revoluções Liberais",
+            "Ideias Políticas do Século XIX - Ideias Políticas do Século XIX",
+            "Revoluções Liberais - Congresso de Viena e Revoluções Liberais",
+            "Segunda Revolução Industrial - Revolução Industrial",
+            "Imperialismo e Neocolonialismo - Imperialismo/Neocolonialismo",
+            "Imperialismo e Neocolonialismo II - Imperialismo/Neocolonialismo",
+            "Unificação da Alemanha e Unificação da Itália - Unificação Alemã e Unificação Italiana"
+        ]
+    },
+    {
+        "Brasil Monárquico": [
+            "Período Joanino - Período Joanino",
+            "Primeiro Reinado - Brasil: O Primeiro Reinado",
+            "Período Regencial - Brasil: Período Regencial",
+            "Revoltas do Período Regencial - Brasil: Período Regencial",
+            "Política Interna do Segundo Reinado - Segundo Reinado",
+            "Política Externa do Segundo Reinado - Segundo Reinado",
+            "Mudanças Socioculturais e Crise do Segundo Reinado - Segundo Reinado"
+        ]
+    },
+    {
+        "Século XX": [
+            "Crise de 1929 - EUA e a Crise de 1929",
+            "Fascismo na Itália - Nazifascismo",
+            "Alemanha Nazista - Nazifascismo",
+            "EUA (1945 - 1989): Política Interna - EUA (1945-1989)",
+            "EUA e a Luta por Direitos Civis - EUA (1945-1989)",
+            "URSS e o Bloco Socialista - URSS e o Bloco Socialista",
+            "Populismo na América Latina - Populismo na América Latina",
+            "Ditaduras Militares na América Latina - Ditaduras Militares na América Latina",
+            "Pan-Africanismo e Pan-Arabismo - Pan-Africanismo e Pan-Arabismo",
+            "Descolonização de África I - Descolonização da África",
+            "Contracultura nos EUA e Mundo - Contracultura nos EUA e Mundo",
+            "Descolonização de África II - Descolonização da África",
+            "Redemocratização da América Latina - Redemocratização da América Latina",
+            "Governo Gorbachev e o fim da URSS - Governo Gorbachev e o Fim da URSS"
+        ]
+    },
+    {
+        "Conflitos do Século XX": [
+            "Primeira Guerra Mundial I - Primeira Guerra Mundial",
+            "Formação da URSS - A Revolução Russa e a Formação da URSS",
+            "Primeira Guerra Mundial II - Primeira Guerra Mundial",
+            "Guerra Civil Espanhola - Guerra Civil Espanhola",
+            "Segunda Guerra Mundial I - Segunda Guerra Mundial",
+            "Segunda Guerra Mundial II - Segunda Guerra Mundial",
+            "Guerra Fria I - Guerra Fria",
+            "Guerra Fria II - Guerra Fria",
+            "Revolução Chinesa - Revolução Chinesa",
+            "Revolução Cubana - Revolução Cubana",
+            "A Independência da Índia e a Guerra da Coréia - A Independência da Índia e a Guerra da Coreia",
+            "Guerra Civil no Líbano e Revolução Islâmica no Irã - Guerra civil no Líbano e a Revolução Islâmica no Irã",
+            "Conflito Árabe-Israelense - Conflito Árabe-Israelense",
+            "Guerra do Irã-Iraque e a Guerra do Golfo Pérsico - A Guerra do Irã-Iraque e a Guerra do Golfo Pérsico"
+        ]
+    },
+    {
+        "Primeira República": [
+            "Proclamação da República - República da Espada",
+            "República da Espada - República da Espada",
+            "República Oligárquica | 1894 - 1906 - República Oligárquica",
+            "República Oligárquica | 1906 - 1914 - República Oligárquica",
+            "República Oligárquica | 1914 - 1930 - República Oligárquica"
+        ]
+    },
+    {
+        "Estado Novo e Populismo": [
+            "Era Vargas I - Brasil: A Era Vargas",
+            "Era Vargas II - Brasil: A Era Vargas",
+            "Era Vargas III - Brasil: A Era Vargas",
+            "República Populista I - Brasil: Populismo",
+            "República Populista II - Brasil: Populismo",
+            "República Populista III - Brasil: Populismo"
+        ]
+    },
+    {
+        "Ditadura Militar Brasileira": [
+            "Ditadura Civil-Militar | Do Golpe a Castello Branco - Brasil: Ditadura Civil-Militar",
+            "Ditadura Civil-Militar | Governos Costa e Silva e Médici - Brasil: Ditadura Civil-Militar",
+            "Ditadura Civil-Militar | Luta Armada e a Repressão Estatal - Brasil: Ditadura Civil-Militar",
+            "Ditadura Civil-Militar | Governos Geisel e Figueiredo - Brasil: Ditadura Civil-Militar",
+            "Contracultura no Brasil - Contracultura no Brasil",
+            "Processo de Redemocratização - Processo de Redemocratização"
+        ]
+    },
+    {
+        "Nova República": [
+            "Nova República I - Nova República",
+            "Nova República II - Nova República",
+            "Nova República III - Nova República",
+            "Povos Indígenas no Brasil Contemporâneo - Povos Indígenas no Brasil Contemporâneo"
+        ]
+    },
+    {
+        "Tempo Presente": [
+            "Neoliberalismo e Globalização - Neoliberalismo e Globalização",
+            "Atentado de 11 de Setembro e Guerra ao Terror - Atentado de 11 de Setembro e a Guerra contra o Terror",
+            "EUA Contemporâneo: Governos Obama e Trump - Os Governos Obama e Trump nos EUA",
+            "Pandemia do Coronavírus no mundo - A Pandemia do Coronavírus no Brasil e no Mundo",
+            "Movimentos Sociais e Culturais - Movimentos Sociais e Culturais",
+            "Patrimônio e Memória - Patrimônio e Memória"
+        ]
+    },
+    {
+        "História da Arte": [
+            "Introdução à História da Arte - Introdução à História da Arte",
+            "Arte na Pré-história - Arte na Pré-História",
+            "Arte na Idade Antiga - Arte na Idade Antiga",
+            "Arte na Alta Idade Média - Arte na Alta Idade Média",
+            "Arte Gótica - Arte Gótica",
+            "Arte no Renascimento - Arte no Renascimento",
+            "Arte Barroca - Arte Barroca",
+            "Arte Neoclássica e Romântica - Arte Neoclássica e Romântica",
+            "Vanguardas Europeias - Vanguardas Europeias",
+            "Introdução à Arte Contemporânea - Introdução à Arte Contemporânea",
+            "História da Arte Contemporânea I - Arte Contemporânea I",
+            "História da Arte Contemporânea II - Arte Contemporânea II",
+            "História da Arte no Brasil I - História da Arte no Brasil",
+            "História da Arte no Brasil II - História da Arte no Brasil",
+            "História da Arte no Brasil III - História da Arte no Brasil"
+        ]
+    }
+]

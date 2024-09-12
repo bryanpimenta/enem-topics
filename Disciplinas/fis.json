@@ -1,0 +1,308 @@
+[
+    {
+        "Introdução à Física": [
+            "Introdução à Física - Introdução à Física",
+            "Como Estudar Física? - Introdução à Física",
+            "Grandezas Físicas - Introdução à Física",
+            "Sistema Internacional - Introdução à Física",
+            "Prefixos do Sistema Internacional - Introdução à Física",
+            "Ordem de Grandeza - Ordem de Grandeza",
+            "Operações com Unidades - Introdução à Física",
+            "Trigonometria Para Física I - Introdução à Física",
+            "Trigonometria Para Física II - Introdução à Física"
+        ]
+    },
+    {
+        "Cinemática": [
+            "Trajetória e Referenciais - Introdução à Cinemática",
+            "Deslocamento e Distância Percorrida - Introdução à Cinemática",
+            "Velocidade - Introdução à Cinemática",
+            "Movimento Uniforme - Movimento Uniforme",
+            "Encontros e Ultrapassagens no MU - Encontros e Ultrapassagens no MU",
+            "Ano-Luz - Ano-Luz",
+            "Aceleração - Movimento Uniformemente Variado",
+            "Movimento Uniformemente Variado - Movimento Uniformemente Variado",
+            "Classificação dos Movimentos - Movimento Uniformemente Variado",
+            "Fórmulas do MUV - Movimento Uniformemente Variado",
+            "Encontros e Ultrapassagens no MUV - Encontros e Ultrapassagens no MUV",
+            "Resolução de Exercícios | MU e MUV - Movimento Uniformemente Variado",
+            "Queda Livre - Queda Livre",
+            "Lançamento Vertical - Lançamento Vertical",
+            "Gráficos do MU - Gráficos do MU",
+            "Gráficos do MUV I - Gráficos do MUV",
+            "Gráficos do MUV II - Gráficos do MUV",
+            "Gráficos do MU e MUV: Resolução de Exercícios - Gráficos do MUV",
+            "Vetores - Vetores",
+            "Operações com Vetores - Vetores",
+            "Decomposição Vetorial - Vetores",
+            "Cinemática Vetorial I - Cinemática Vetorial",
+            "Cinemática Vetorial II - Cinemática Vetorial",
+            "Composição de Movimentos I - Composição de Movimentos",
+            "Composição de Movimentos II - Composição de Movimentos",
+            "Lançamento Horizontal - Lançamento Horizontal",
+            "Lançamento Oblíquo - Lançamento Oblíquo",
+            "Fórmulas do Lançamento Oblíquo - Lançamento Oblíquo"
+        ]
+    },
+    {
+        "Dinâmica": [
+            "Introdução à Dinâmica - Introdução à Dinâmica",
+            "Leis de Newton - Leis de Newton",
+            "Diagramas de Forças - Diagrama de Forças",
+            "Atrito Estático - Atrito",
+            "Atrito Dinâmico - Atrito",
+            "Força de Arrasto - Força de Arrasto",
+            "Planos Inclinados - Planos Inclinados",
+            "Polias I - Polias",
+            "Polias II - Polias",
+            "Força Elástica - Força Elástica",
+            "Associação de Molas - Força Elástica",
+            "Elevadores - Elevadores",
+            "Força Elástica: Resolução de Exercícios - Força Elástica",
+            "Elevadores: Resolução de Exercícios - Elevadores"
+        ]
+    },
+    {
+        "Estática": [
+            "Estática: Ponto Material - Estática do Ponto Material",
+            "Estática: Corpo Extenso - Estática do Corpo Extenso",
+            "Tombamento I - Tombamento",
+            "Tombamento II - Tombamento",
+            "Escorregamento - Escorregamento",
+            "Alavancas - Alavancas"
+        ]
+    },
+    {
+        "Movimento Circular": [
+            "Movimento Circular I - Movimento Circular",
+            "Movimento Circular II - Movimento Circular",
+            "Transmissão de Movimento Circular I - Movimento Circular",
+            "Transmissão de Movimento Circular II - Movimento Circular",
+            "Força Centrípeta I - Força Centrípeta",
+            "Força Centrípeta II - Força Centrípeta"
+        ]
+    },
+    {
+        "Gravitação Universal": [
+            "Modelos Planetários - Introdução à Gravitação Universal",
+            "Leis de Kepler - Leis de Kepler",
+            "Lei da Gravitação Universal I - Lei da Gravitação Universal",
+            "Lei da Gravitação Universal II - Lei da Gravitação Universal",
+            "Estudo sobre Gravidade I - Estudo sobre Gravidade",
+            "Estudo sobre Gravidade II - Estudo sobre Gravidade",
+            "Marés - Marés"
+        ]
+    },
+    {
+        "Trabalho e Energia": [
+            "Trabalho de uma Força - Trabalho e Potência Mecânica",
+            "Energia Mecânica - Energia Mecânica",
+            "Potência Mecânica e Rendimento - Trabalho e Potência Mecânica",
+            "Sistemas Conservativos - Sistemas Conservativos",
+            "Sistemas Dissipativos - Sistemas Dissipativos",
+            "Energia Potencial Gravitacional - Energia Potencial Gravitacional"
+        ]
+    },
+    {
+        "Quantidade de Movimento": [
+            "Quantidade de Movimento - Quantidade de Movimento e Impulso",
+            "Impulso - Quantidade de Movimento e Impulso",
+            "Teorema do Impulso - Quantidade de Movimento e Impulso",
+            "Conservação da Quantidade de Movimento - Quantidade de Movimento e Impulso",
+            "Colisões Unidimensionais I - Colisões",
+            "Colisões Unidimensionais II - Colisões",
+            "Colisões Bidimensionais - Colisões Bidimensionais"
+        ]
+    },
+    {
+        "Fluidos": [
+            "Densidade e Pressão - Densidade, Pressão e Teorema de Stevin",
+            "Teorema de Stevin | Pressão dos Líquidos - Densidade, Pressão e Teorema de Stevin",
+            "Pressão Atmosférica | Parte I - Densidade, Pressão e Teorema de Stevin",
+            "Pressão Atmosférica | Parte II - Densidade, Pressão e Teorema de Stevin",
+            "Princípio de Pascal | Máquinas Hidráulicas - Princípio de Pascal",
+            "Empuxo e Arquimedes - Princípio de Arquimedes",
+            "Empuxo e Flutuação - Princípio de Arquimedes",
+            "Vazão e Continuidade I - Fluidodinâmica",
+            "Vazão e Continuidade II - Fluidodinâmica",
+            "Equação de Bernoulli I - Fluidodinâmica",
+            "Equação de Bernoulli II - Fluidodinâmica"
+        ]
+    },
+    {
+        "Movimento Harmônico Simples": [
+            "Movimento Harmônico Simples I - Casos de MHS: Sistema Massa-Mola e Pêndulo Simples",
+            "Movimento Harmônico Simples II - Casos de MHS: Sistema Massa-Mola e Pêndulo Simples",
+            "Cinemática do Movimento Harmônico Simples I - Cinemática do Movimento Harmônico Simples",
+            "Cinemática do Movimento Harmônico Simples II - Cinemática do Movimento Harmônico Simples",
+            "Energia no MHS - Casos de MHS: Sistema Massa-Mola e Pêndulo Simples"
+        ]
+    },
+    {
+        "Ondulatória": [
+            "Estudo das Ondas - Introdução à Ondulatória",
+            "Equação Fundamental da Ondulatória - Introdução à Ondulatória",
+            "Reflexão e Refração - Reflexão e Refração",
+            "Difração - Difração, Ressonância e Polarização",
+            "Ressonância - Difração, Ressonância e Polarização",
+            "Polarização - Difração, Ressonância e Polarização",
+            "Interferência I - Interferência",
+            "Interferência II - Interferência",
+            "Acústica e Fenômenos Sonoros - Fenômenos Sonoros",
+            "Qualidades Fisiológicas do Som - Qualidades Fisiológicas do Som",
+            "Ondas Estacionárias em Cordas - Ondas Estacionárias",
+            "Tubos Sonoros I - Ondas Estacionárias",
+            "Tubos Sonoros II - Ondas Estacionárias",
+            "Efeito Doppler I - Efeito Doppler",
+            "Efeito Doppler II - Efeito Doppler",
+            "Qualidades Fisiológicas do Som: Resolução de Exercício - Fenômenos Sonoros"
+        ]
+    },
+    {
+        "Termologia": [
+            "Temperatura e Calor - Introdução à Termologia",
+            "Termometria I - Termometria",
+            "Termometria II - Termometria",
+            "Dilatação de Sólidos | Teoria - Dilatação Térmica",
+            "Dilatação de Sólidos | Estudo Matemático I - Dilatação Térmica",
+            "Dilatação de Sólidos | Estudo Matemático II - Dilatação Térmica",
+            "Dilatação de Líquidos - Dilatação Térmica",
+            "Introdução à Calorimetria I - Calorimetria: Calor Sensível",
+            "Introdução à Calorimetria II - Calorimetria: Calor Sensível",
+            "Trocas de Calor sem Mudanças de Fase - Calorimetria: Calor Sensível",
+            "Os Estados da Matéria - Calorimetria: Mudanças de Fase",
+            "Diagramas de Fase - Calorimetria: Mudanças de Fase",
+            "Mudanças de Fase - Calorimetria: Mudanças de Fase",
+            "Trocas de Calor com Mudanças de Fase - Calorimetria: Calor Sensível",
+            "Condução Térmica - Transmissão de Calor",
+            "Convecção Térmica - Transmissão de Calor",
+            "Irradiação Térmica - Transmissão de Calor",
+            "Potência Solar - Transmissão de Calor",
+            "O Estudo dos Gases Ideais - Estudo dos Gases Ideais",
+            "Trabalho de um Gás - Estudo dos Gases Ideais",
+            "Primeira Lei da Termodinâmica I - Primeira Lei da Termodinâmica",
+            "Primeira Lei da Termodinâmica II - Primeira Lei da Termodinâmica",
+            "Máquinas Térmicas - Segunda Lei da Termodinâmica",
+            "Ciclos Termodinâmicos - Segunda Lei da Termodinâmica",
+            "Segunda Lei da Termodinâmica - Segunda Lei da Termodinâmica"
+        ]
+    },
+    {
+        "Eletrostática": [
+            "Carga Elétrica - Processos de Eletrização",
+            "Processos de Eletrização I - Processos de Eletrização",
+            "Processos de Eletrização II - Processos de Eletrização",
+            "Lei de Coulomb - Lei de Coulomb",
+            "Resolução de Exercícios: Lei de Coulomb - Lei de Coulomb",
+            "Campo Elétrico - Campo Elétrico e Potencial Elétrico",
+            "Linhas de Campo - Campo Elétrico e Potencial Elétrico",
+            "Potencial Elétrico I - Campo Elétrico e Potencial Elétrico",
+            "Potencial Elétrico II - Campo Elétrico e Potencial Elétrico",
+            "Campo Elétrico Uniforme - Campo Elétrico Uniforme",
+            "Condutores Eletrizados I - Condutores Eletrizados",
+            "Condutores Eletrizados II - Condutores Eletrizados",
+            "Condutores Eletrizados Para o ENEM - Condutores Eletrizados"
+        ]
+    },
+    {
+        "Eletrodinâmica": [
+            "Corrente Elétrica I - Introdução à Eletrodinâmica",
+            "Corrente Elétrica II - Introdução à Eletrodinâmica",
+            "Tensão e Potência Elétrica - Introdução à Eletrodinâmica",
+            "Energia Elétrica - Introdução à Eletrodinâmica",
+            "Primeira Lei de Ohm - Leis de Ohm",
+            "Potência Elétrica em Resistores - Potência em Resistores",
+            "Segunda Lei de Ohm - Leis de Ohm",
+            "Associação de Resistores em Série - Circuitos Elétricos",
+            "Associação de Resistores em Paralelo - Associação de Resistores",
+            "Associação Mista de Resistores - Circuitos Elétricos",
+            "Curto-Circuito e Dispositivos de Segurança - Curto-Circuito e Dispositivos de Segurança",
+            "Geradores Elétricos - Eletrodinâmica",
+            "Potência e Rendimento em Geradores - Geradores",
+            "Receptores Elétricos - Receptores",
+            "Receptores Elétricos Para o ENEM - Receptores",
+            "Circuitos Elétricos Gerador-Receptor-Resistor - Receptores",
+            "Instrumentos de Medida - Instrumentos de Medidas",
+            "Leis de Kirchhoff I - Leis de Kirchhoff",
+            "Leis de Kirchhoff II - Leis de Kirchhoff",
+            "Ponte de Wheatstone - Ponte de Wheatstone",
+            "Capacitores - Capacitores",
+            "Associação de Capacitores - Associação de Capacitores e Circuitos",
+            "Circuitos com Capacitores - Associação de Capacitores e Circuitos",
+            "Resolução de Circuitos - Circuitos Elétricos"
+        ]
+    },
+    {
+        "Magnetismo": [
+            "Introdução ao Magnetismo - Introdução ao Magnetismo",
+            "Campo Magnético - Campo Magnético",
+            "Campo Magnético Gerado por um Fio - Campo Magnético",
+            "Força Magnética sobre a Carga - Força Magnética",
+            "Movimentos de Carga em Campo Magnético - Força Magnética",
+            "Força Magnética Sobre Condutores Imersos em C.M. - Força Magnética",
+            "Lei de Faraday - Lei de Faraday",
+            "Lei de Lenz - Lei de Lenz",
+            "Deslocamento de Condutores em Campo Magnético - Lei de Lenz",
+            "Transformadores - Lei de Lenz",
+            "Transformação de Outras Fontes de Energia em Energia Elétrica - Geração de Energia Elétrica"
+        ]
+    },
+    {
+        "Óptica": [
+            "Introdução à Óptica - Introdução à Óptica",
+            "Propriedades da Luz I - Introdução à Óptica",
+            "Propriedades da Luz II - Propriedades da Luz",
+            "Princípios da Óptica Geométrica - Óptica Geométrica",
+            "Objetos e Imagens - Óptica Geométrica",
+            "Eclipses - Óptica Geométrica",
+            "Reflexão da Luz | Espelhos Planos - Reflexão da Luz",
+            "Translação, Rotação e Associação de Espelhos - Translação, Rotação e Associação de Espelhos",
+            "Espelhos Esféricos I - Espelhos Esféricos",
+            "Espelhos Esféricos II - Espelhos Esféricos",
+            "Espelhos Esféricos III - Espelhos Esféricos",
+            "Refração da Luz - Refração da Luz",
+            "Leis da Refração - Refração da Luz",
+            "Consequências da Segunda Lei - Refração da Luz",
+            "Imagens em Dioptros Planos - Dioptro Plano e Reflexão Total",
+            "Ângulo Limite e Reflexão Total - Dioptro Plano e Reflexão Total",
+            "Aplicações da Reflexão Total - Dioptro Plano e Reflexão Total",
+            "Lâminas de Faces Paralelas - Lâminas de Faces Paralelas e Prismas",
+            "Prismas Ópticos - Lâminas de Faces Paralelas e Prismas",
+            "Prismas Ópticos | Estudo Analítico - Lâminas de Faces Paralelas e Prismas",
+            "Lentes Esféricas I - Lentes",
+            "Lentes Esféricas II - Lentes",
+            "Lentes Esféricas III - Lentes",
+            "Instrumentos Ópticos I - Instrumentos Ópticos",
+            "Instrumentos Ópticos II - Instrumentos Ópticos",
+            "Anatomia do Olho Humano - Óptica da Visão",
+            "Principais Problemas de Visão - Óptica da Visão"
+        ]
+    },
+    {
+        "Física Moderna": [
+            "Panorama da Física no Século XIX - Introdução à Física Moderna",
+            "As Nuvens de Lorde Kelvin - Introdução à Física Moderna",
+            "Radiação do Corpo Negro - Física Quântica",
+            "Efeito Fotoelétrico I - Efeito Fotoelétrico",
+            "Efeito Fotoelétrico II - Efeito Fotoelétrico",
+            "Física Quântica - Física Quântica",
+            "Relatividade Especial I - Teoria da Relatividade",
+            "Relatividade Especial II - Teoria da Relatividade",
+            "Física Moderna Para o ENEM - Introdução à Física Moderna"
+        ]
+    },
+    {
+        "Análise Dimensional": [
+            "Análise Dimensional I - Análise Dimensional",
+            "Análise Dimensional II - Análise Dimensional"
+        ]
+    },
+    {
+        "Atualidades": [
+            "Sirius: Acelerador de Partículas Brasileiro - Atualidades",
+            "Base de Alcântara - Atualidades",
+            "Buracos Negros - Atualidades",
+            "100 Anos do Experimento de Sobral - Atualidades"
+        ]
+    }
+]

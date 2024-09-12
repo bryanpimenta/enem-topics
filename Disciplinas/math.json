@@ -1,64 +1,334 @@
 [
     {
-        "Matemática básica": {
-            "Números Decimais": [
-                "Números Decimais",
-                "Frações Decimais",
-                "Fração Decimal para Número Decimal",
-                "Número Decimal para Fração Decimal",
-                "Números Decimais Exatos",
-                "Adição e Subtração de Números Decimais",
-                "Multiplicação de Números Decimais",
-                "Divisão de Números Decimais"
-            ],
-            "Dízimas Periódicas": [
-                "Período de Repetição",
-                "Dízimas Periódicas Simples",
-                "Dízimas Periódicas Compostas",
-                "Fração Geratriz",
-                "Fração Geratriz de uma Dízima Periódica Simples",
-                "Fração Geratriz de uma Dízima Periódica Composta"
-            ],
-            "Divisores de um Número": [
-                "Número Primo",
-                "Número Composto",
-                "Divisor de um Número",
-                "Decomposição de um Número Natural",
-                "Número de Divisores de um Número Natural"
-            ],
-            "MDC e MMC": [
-                "Divisores Naturais de um Número",
-                "Máximo Divisor Comum (M.D.C.)",
-                "Múltiplos de um Número Natural",
-                "Mínimo Múltiplo Comum (M.M.C.)"
-            ],
-            "Teorema Fundamental da Divisão e Critérios de Divisibilidade": [
-                "Teorema Fundamental da Divisão",
-                "Critérios de Divisibilidade",
-                "Critério de Divisibilidade por 2",
-                "Critério de Divisibilidade por 3",
-                "Critério de Divisibilidade por 4",
-                "Critério de Divisibilidade por 5",
-                "Critério de Divisibilidade por 6",
-                "Critério de Divisibilidade por 8",
-                "Critério de Divisibilidade por 9",
-                "Critério de Divisibilidade por 10"
-            ],
-            "Potenciação": [
-                "Potência de um Número",
-                "Propriedades da Potenciação"
-            ],
-            "Notação Científica": [
-                "Notação Científica",
-                "Escrever um Número em Notação Científica",
-                "Operações com Números em Notação Científica"
-            ],
-            "Radiciação": [
-                "Raiz n-ésima (enésima)",
-                "Propriedades da Radiciação",
-                "Somar e Subtrair Raízes",
-                "Racionalização de Denominadores"
-            ]
-        }
+        "Matemática Básica": [
+            "Sistema de Numeração Decimal - Sistemas de Numeração",
+            "Soma e Subtração de Números Inteiros - Soma e Subtração de Números Inteiros",
+            "Multiplicação e Divisão de Números Inteiros - Multiplicação e Divisão de Números Inteiros",
+            "Expressões Numéricas - Expressões Numéricas",
+            "Frações e suas Operações - Frações",
+            "Números Decimais - Operações com Números Decimais",
+            "Dízimas Periódicas - Operações com Números Decimais",
+            "Divisores de um Número - Múltiplos e Divisores",
+            "MDC e MMC - Múltiplos e Divisores",
+            "Teorema Fundamental da Divisão e Critérios de Divisibilidade - Múltiplos e Divisores",
+            "Potenciação - Potenciação",
+            "Notação Científica - Notação Científica",
+            "Transformação de Unidades - Transformação de Unidades",
+            "Radiciação I - Radiciação",
+            "Radiciação II - Radiciação",
+            "Expressões Algébricas - Expressões Algébricas, Produtos Notáveis e Fatoração",
+            "Produtos Notáveis - Expressões Algébricas, Produtos Notáveis e Fatoração",
+            "Fatoração I - Expressões Algébricas, Produtos Notáveis e Fatoração",
+            "Fatoração II - Expressões Algébricas, Produtos Notáveis e Fatoração",
+            "Equação do 1º Grau - Equação do 1º Grau",
+            "Sistema de Equações - Sistemas de Equações",
+            "Equação do 2º Grau I - Equação do 2º Grau",
+            "Equação do 2º Grau II - Equação do 2º Grau",
+            "Equações Especiais - Equações Especiais",
+            "Razão e Proporção I - Razão, Proporção e Regra de Três",
+            "Razão e Proporção II - Razão, Proporção e Regra de Três",
+            "Regra de Três Simples - Razão, Proporção e Regra de Três",
+            "Regra de Três Composta - Razão, Proporção e Regra de Três",
+            "Escalas - Escalas",
+            "Sistemas de Numeração - Sistemas de Numeração",
+            "Porcentagem I - Porcentagem",
+            "Porcentagem II - Porcentagem",
+            "Juros Simples - Juros",
+            "Juros Compostos - Juros"
+        ]
+    },
+    {
+        "Conjuntos": [
+            "Definição e Simbologia de Conjuntos - Conjuntos e suas Operações",
+            "Subconjuntos e Conjunto das Partes - Conjuntos e suas Operações",
+            "União e Intersecção de Conjuntos - Conjuntos e suas Operações",
+            "Diferença e Complementar - Conjuntos e suas Operações",
+            "Conjuntos Numéricos - Conjuntos Numéricos",
+            "Intervalos Numéricos - Intervalos Numéricos"
+        ]
+    },
+    {
+        "Funções": [
+            "Funções I - Introdução à Funções",
+            "Funções II - Introdução à Funções",
+            "Domínio de Funções - Domínio de Funções",
+            "Funções Lineares - Função do 1º Grau",
+            "Função Afim I - Função do 1º Grau",
+            "Função Afim II - Função do 1º Grau",
+            "Função do 2º Grau - Função do 2º Grau",
+            "Raízes de uma Função do 2º Grau - Função do 2º Grau",
+            "Vértice da Parábola - Máximos e Mínimos",
+            "Máximos e Mínimos - Máximos e Mínimos",
+            "Forma Fatorada e Forma Canônica - Máximos e Mínimos",
+            "Funções Definidas por Várias Sentenças - Função Definida por Várias Sentenças",
+            "Função Composta - Função Composta",
+            "Transformações de Gráficos - Transformações de Gráficos",
+            "Estudo dos Sinais da Função - Estudo dos Sinais da Função",
+            "Inequação do Primeiro Grau - Inequações",
+            "Inequação do Segundo Grau - Inequações",
+            "Problemas com Inequações - Inequações",
+            "Inequação Produto - Inequações",
+            "Inequação Quociente - Inequações",
+            "Sistemas de Inequações - Inequações",
+            "Paridade de Funções - Paridade de Funções",
+            "Classificação de Funções I - Classificação de Funções",
+            "Classificação de Funções II - Classificação de Funções",
+            "Função Inversa I - Função Inversa",
+            "Função Inversa II - Função Inversa",
+            "Função Racional - Função Racional",
+            "Função Irracional - Função Irracional"
+        ]
+    },
+    {
+        "Módulo": [
+            "Módulo - Introdução ao Módulo",
+            "Função Modular I - Função Modular",
+            "Função Modular II - Função Modular",
+            "Equação Modular - Equação Modular",
+            "Inequação Modular - Inequação Modular"
+        ]
+    },
+    {
+        "Exponencial e Logaritmo": [
+            "Função Exponencial - Função Exponencial",
+            "Equação Exponencial - Equação Exponencial",
+            "Inequação Exponencial - Inequação Exponencial",
+            "Logaritmo - Logaritmo e Propriedades",
+            "Propriedades do Logaritmo - Logaritmo e Propriedades",
+            "Mudança de Base - Logaritmo e Propriedades",
+            "Função Logarítmica - Função Logarítmica",
+            "Equação Logarítmica - Equação Logarítmica",
+            "Inequação Logarítmica - Inequação Logarítmica"
+        ]
+    },
+    {
+        "Geometria Plana": [
+            "Ângulos I - Fundamentos e Ângulos",
+            "Ângulos II - Fundamentos e Ângulos",
+            "Paralelismo e Suas Propriedades Geométricas - Fundamentos e Ângulos",
+            "Problemas de Fundamentos da geometria plana - Fundamentos e Ângulos",
+            "Triângulos Classificação e Propriedades - Triângulos",
+            "Problemas de Triângulos - Triângulos",
+            "Cevianas de um triangulo e os pontos notáveis I - Triângulos",
+            "Cevianas de um triângulo II - Triângulos",
+            "Problemas de Cevianas de um Triângulo II - Triângulos",
+            "Triângulos Retângulos Especiais - Relações Métricas no Triângulo Retângulo",
+            "Problemas de Triângulos Retângulos Especiais - Triângulos",
+            "Congruência de Triângulos e Base Média - Triângulos",
+            "Problemas de congruência de triângulos - Triângulos",
+            "Teorema de Tales e Teorema da bissetriz interna - Teorema de Tales e das Bissetrizes",
+            "Semelhança de Triângulos - Triângulos",
+            "Áreas de Figuras Semelhantes - Áreas",
+            "Problemas de Áreas de Figuras Semelhantes I - Semelhança de Polígonos",
+            "Relações Métricas no Triângulo Retângulo - Relações Métricas no Triângulo Retângulo",
+            "Reta e circunferência - Posições Relativas com Circunferências",
+            "Relações métricas na circunferência - Relações Métricas na Circunferência",
+            "Problema de relações métricas na circunferência - Relações Métricas na Circunferência",
+            "Quadriláteros I - Quadriláteros",
+            "Quadriláteros II - Quadriláteros",
+            "Problemas com quadriláteros - Quadriláteros",
+            "Polígonos I - Polígonos",
+            "Polígonos II - Polígonos",
+            "Problemas com Polígonos - Polígonos",
+            "Áreas de Triângulos I - Triângulos",
+            "Problemas com Áreas de Triângulos I - Triângulos",
+            "Áreas de Triângulos II - Triângulos",
+            "Problemas com Áreas de Triângulos II - Triângulos",
+            "Área do Círculo e suas Partes - Circunferência e Círculo",
+            "Problemas de áreas de círculos e suas partes - Circunferência e Círculo",
+            "Polígonos regulares inscritos e circunscritos na circunferência I - Polígonos Inscritos e Circunscritos",
+            "Problemas com Polígonos regulares inscritos e circunscritos na circunferência - Polígonos Inscritos e Circunscritos",
+            "Polígonos regulares inscritos e circunscritos na circunferência II - Polígonos Inscritos e Circunscritos"
+        ]
+    },
+    {
+        "Trigonometria": [
+            "Trigonometria no Triângulo Retângulo - Trigonometria no Triângulo Retângulo",
+            "Trigonometria | Conceitos Básicos I - Ângulos",
+            "Trigonometria | Conceitos Básicos II - Ângulos",
+            "Lei dos Senos - Trigonometria em Triângulos Quaisquer",
+            "Lei dos Cossenos - Trigonometria em Triângulos Quaisquer",
+            "Lei das Áreas - Trigonometria em Triângulos Quaisquer",
+            "Ciclo Trigonométrico - Ciclo Trigonométrico",
+            "Seno na Circunferência Trigonométrica - Ciclo Trigonométrico",
+            "Cosseno na Circunferência Trigonométrica - Ciclo Trigonométrico",
+            "Tangente na Circunferência Trigonométrica - Ciclo Trigonométrico",
+            "Cotangente na Circunferência Trigonométrica - Ciclo Trigonométrico",
+            "Secante na Circunferência Trigonométrica - Ciclo Trigonométrico",
+            "Cossecante na Circunferência Trigonométrica - Ciclo Trigonométrico",
+            "Relação Fundamental da Trigonometria - Ciclo Trigonométrico",
+            "Relações Fundamentais e Auxiliares - Ciclo Trigonométrico",
+            "Reduções do 2º para o 1º Quadrante - Redução ao Primeiro Quadrante",
+            "Reduções do 3º para o 1º Quadrante - Redução ao Primeiro Quadrante",
+            "Reduções do 4º para o 1º Quadrante - Redução ao Primeiro Quadrante",
+            "Identidades Trigonométricas - Ciclo Trigonométrico",
+            "Adição e Subtração de Arcos - Operações com Arcos",
+            "Arco Duplo e Arco Metade - Operações com Arcos",
+            "Função Seno - Funções Trigonométricas",
+            "Função Cosseno - Funções Trigonométricas",
+            "Exercícios de Funções Seno e Cosseno - Funções Trigonométricas",
+            "Função Tangente e Cotangente - Funções Trigonométricas",
+            "Função Secante e Cossecante - Funções Trigonométricas",
+            "Função Arco Seno - Funções Trigonométricas",
+            "Função Arco Cosseno - Funções Trigonométricas",
+            "Função Arco Tangente - Funções Trigonométricas",
+            "Equações Trigonométricas na 1ª Volta - Equações Trigonométricas",
+            "Equações Trigonométricas nos Reais - Equações Trigonométricas",
+            "Inequações Trigonométricas - Inequações Trigonométricas"
+        ]
+    },
+    {
+        "Matrizes": [
+            "Matrizes I - Matrizes e Operações com Matrizes",
+            "Matrizes II - Matrizes e Operações com Matrizes",
+            "Operações com Matrizes - Matrizes e Operações com Matrizes",
+            "Multiplicação de Matrizes - Matrizes e Operações com Matrizes",
+            "Matriz Inversa - Matriz Inversa",
+            "Potência de Matrizes - Potência de Matrizes",
+            "Determinantes - Determinantes",
+            "Teorema de Laplace - Determinantes de Ordem Superior a 3",
+            "Chió e Vandermonde - Determinantes de Ordem Superior a 3",
+            "Inversa de uma Matriz de Ordem 3 - Inversa de uma Matriz 3x3",
+            "Propriedades dos Determinantes I - Propriedades dos Determinantes",
+            "Propriedades dos Determinantes II - Propriedades dos Determinantes"
+        ]
+    },
+    {
+        "Sistemas Lineares": [
+            "Sistemas Lineares: Introdução - Introdução à Sistemas Lineares",
+            "Regra de Cramer - Regra de Cramer",
+            "Escalonamento I - Escalonamento",
+            "Escalonamento II - Escalonamento",
+            "Equações Lineares - Equações Lineares",
+            "Discussão de Sistemas Lineares I - Discussão e Interpretação de Sistemas Lineares",
+            "Interpretação Geométrica de Sistemas Lineares - Discussão e Interpretação de Sistemas Lineares",
+            "Discussão de Sistemas Lineares II - Discussão e Interpretação de Sistemas Lineares",
+            "Sistemas Homogêneos - Sistema Linear Homogêneo"
+        ]
+    },
+    {
+        "Geometria Espacial": [
+            "Postulados e Posições Relativas - Geometria de Posição",
+            "Projeções Ortogonais - Geometria de Posição",
+            "Poliedros - Poliedros",
+            "Poliedros Regulares - Poliedros",
+            "Planificações - Poliedros",
+            "Prismas I - Prismas",
+            "Prismas II - Prismas",
+            "Problemas de Prismas - Prismas",
+            "Pirâmide I - Pirâmides",
+            "Pirâmide II - Pirâmides",
+            "Tronco de Pirâmides - Pirâmides",
+            "Cilindro - Cilindros",
+            "Problemas de Cilindro - Cilindros",
+            "Cone - Cones",
+            "Tronco de Cone - Cones",
+            "Problemas de Cone e Tronco de Cone - Cones",
+            "Esfera I - Esfera",
+            "Esfera II - Esfera",
+            "Inscrição e Circunscrição I - Inscrição e Circunscrição de Sólidos",
+            "Inscrição e Circunscrição II - Inscrição e Circunscrição de Sólidos",
+            "Problemas de Inscrição e Circunscrição - Inscrição e Circunscrição de Sólidos",
+            "Transformações Isométricas - Geometria de Posição"
+        ]
+    },
+    {
+        "Sequências e Progressões": [
+            "Sequências Numéricas - Sequências",
+            "Progressão Aritmética - Progressões Aritméticas",
+            "Propriedades da PA - Progressões Aritméticas",
+            "Soma dos Termos da PA - Progressões Aritméticas",
+            "P.A. de Ordem Superior - Progressões Aritméticas",
+            "Progressão Geométrica - Progressões Geométricas",
+            "Propriedades de PG - Progressões Geométricas",
+            "Soma dos Termos da PG - Progressões Geométricas",
+            "Multiplicação de P.G. - Progressões Geométricas"
+        ]
+    },
+    {
+        "Análise Combinatória": [
+            "Princípio Fundamental da Contagem - Fatorial e PFC",
+            "Princípio da Preferência - Fatorial e PFC",
+            "Fatorial - Fatorial e PFC",
+            "Permutação Simples - Permutação",
+            "Permutação com Repetição - Permutação",
+            "Permutação Circular e Caótica - Permutação Circular e Caótica",
+            "Combinação - Combinação",
+            "Arranjo - Arranjo",
+            "Números Binomiais - Número Binomial e Binômio de Newton",
+            "Triângulo de Pascal - Número Binomial e Binômio de Newton",
+            "Binômio de Newton I - Número Binomial e Binômio de Newton",
+            "Binômio de Newton II - Número Binomial e Binômio de Newton"
+        ]
+    },
+    {
+        "Probabilidade": [
+            "Introdução à Probabilidade - Probabilidade",
+            "Probabilidade Condicional e Complementar - Probabilidade",
+            "Soma de Probabilidades - Probabilidade",
+            "Multiplicação de Probabilidades - Probabilidade",
+            "Problemas de Probabilidade - Probabilidade"
+        ]
+    },
+    {
+        "Estatística": [
+            "Introdução à Estatística - Interpretação de Gráficos e Tabelas",
+            "Interpretação de Tabelas - Interpretação de Gráficos e Tabelas",
+            "Interpretação de Gráficos - Interpretação de Gráficos e Tabelas",
+            "Média Aritmética e Média Ponderada - Média Aritmética e Média Ponderada",
+            "Média Geométrica e Média Harmônica - Média Geométrica e Média Harmônica",
+            "Medidas de Tendência Central - Medidas de Tendência Central",
+            "Medidas de Dispersão - Medidas de Dispersão"
+        ]
+    },
+    {
+        "Geometria Analítica": [
+            "Plano Cartesiano - Introdução à Geometria Analítica",
+            "Ponto Médio e Baricentro - Introdução à Geometria Analítica",
+            "Distância Entre Dois Pontos - Introdução à Geometria Analítica",
+            "Áreas de Figuras Planas - Introdução à Geometria Analítica",
+            "Equações da Reta - Equações da Reta",
+            "Equação Reduzida - Equações da Reta",
+            "Posição entre Retas I - Posições entre Retas",
+            "Posição Entre Retas II - Posições entre Retas",
+            "Ângulo Entre Retas - Posições entre Retas",
+            "Distância de Ponto à Reta - Posições entre Retas",
+            "Equação Reduzida da Circunferência - Equações da Circunferência",
+            "Equação Geral da Circunferência - Equações da Circunferência",
+            "Posições Relativas com Circunferências I - Posições entre Circunferências no Plano Cartesiano",
+            "Posições Relativas com Circunferências II - Posições entre Circunferências no Plano Cartesiano",
+            "Elipse - Cônicas",
+            "Equação da Elipse - Cônicas",
+            "Hipérbole - Cônicas",
+            "Equação da Hipérbole - Cônicas",
+            "Assíntota da Hipérbole - Cônicas",
+            "Parábola - Cônicas",
+            "Equação da Parábola - Cônicas"
+        ]
+    },
+    {
+        "Números Complexos": [
+            "Introdução aos números complexos - Forma Algébrica dos Complexos",
+            "Operações na Forma Algébrica - Forma Algébrica dos Complexos",
+            "Potências de base i - Forma Algébrica dos Complexos",
+            "Representação geométrica de números complexos - Forma Algébrica dos Complexos",
+            "Argumento de Forma Trigonométrica de um Número Complexo - Forma Trigonométrica dos Complexos",
+            "Operações na Forma Trigonométrica I - Forma Trigonométrica dos Complexos",
+            "Operações na Forma Trigonométrica II - Forma Trigonométrica dos Complexos",
+            "Exercícios sobre números complexos - Forma Trigonométrica dos Complexos"
+        ]
+    },
+    {
+        "Polinômios": [
+            "Expressões Polinomiais - Polinômios",
+            "Operações com Polinômios - Polinômios",
+            "Divisões Especiais - Divisões Polinomiais",
+            "Método de Briot-Ruffini - Polinômios",
+            "Exercícios Sobre Polinômios - Polinômios",
+            "Equações Polinomiais ou Algébricas - Equações Algébricas",
+            "Rebaixamento do Grau e Multiplicidade de uma Raiz - Polinômios",
+            "Propriedades das Raízes - Polinômios",
+            "Relações de Girard - Equações Algébricas"
+        ]
     }
 ]

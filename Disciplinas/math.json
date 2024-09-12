@@ -1,0 +1,64 @@
+[
+    {
+        "Matemática básica": {
+            "Números Decimais": [
+                "Números Decimais",
+                "Frações Decimais",
+                "Fração Decimal para Número Decimal",
+                "Número Decimal para Fração Decimal",
+                "Números Decimais Exatos",
+                "Adição e Subtração de Números Decimais",
+                "Multiplicação de Números Decimais",
+                "Divisão de Números Decimais"
+            ],
+            "Dízimas Periódicas": [
+                "Período de Repetição",
+                "Dízimas Periódicas Simples",
+                "Dízimas Periódicas Compostas",
+                "Fração Geratriz",
+                "Fração Geratriz de uma Dízima Periódica Simples",
+                "Fração Geratriz de uma Dízima Periódica Composta"
+            ],
+            "Divisores de um Número": [
+                "Número Primo",
+                "Número Composto",
+                "Divisor de um Número",
+                "Decomposição de um Número Natural",
+                "Número de Divisores de um Número Natural"
+            ],
+            "MDC e MMC": [
+                "Divisores Naturais de um Número",
+                "Máximo Divisor Comum (M.D.C.)",
+                "Múltiplos de um Número Natural",
+                "Mínimo Múltiplo Comum (M.M.C.)"
+            ],
+            "Teorema Fundamental da Divisão e Critérios de Divisibilidade": [
+                "Teorema Fundamental da Divisão",
+                "Critérios de Divisibilidade",
+                "Critério de Divisibilidade por 2",
+                "Critério de Divisibilidade por 3",
+                "Critério de Divisibilidade por 4",
+                "Critério de Divisibilidade por 5",
+                "Critério de Divisibilidade por 6",
+                "Critério de Divisibilidade por 8",
+                "Critério de Divisibilidade por 9",
+                "Critério de Divisibilidade por 10"
+            ],
+            "Potenciação": [
+                "Potência de um Número",
+                "Propriedades da Potenciação"
+            ],
+            "Notação Científica": [
+                "Notação Científica",
+                "Escrever um Número em Notação Científica",
+                "Operações com Números em Notação Científica"
+            ],
+            "Radiciação": [
+                "Raiz n-ésima (enésima)",
+                "Propriedades da Radiciação",
+                "Somar e Subtrair Raízes",
+                "Racionalização de Denominadores"
+            ]
+        }
+    }
+]

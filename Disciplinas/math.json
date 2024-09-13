@@ -14,25 +14,20 @@
             "Potenciação - Potenciação",
             "Notação Científica - Notação Científica",
             "Transformação de Unidades - Transformação de Unidades",
-            "Radiciação I - Radiciação",
-            "Radiciação II - Radiciação",
+            "Radiciação - Radiciação",
             "Expressões Algébricas - Expressões Algébricas, Produtos Notáveis e Fatoração",
             "Produtos Notáveis - Expressões Algébricas, Produtos Notáveis e Fatoração",
-            "Fatoração I - Expressões Algébricas, Produtos Notáveis e Fatoração",
-            "Fatoração II - Expressões Algébricas, Produtos Notáveis e Fatoração",
+            "Fatoração - Expressões Algébricas, Produtos Notáveis e Fatoração",
             "Equação do 1º Grau - Equação do 1º Grau",
             "Sistema de Equações - Sistemas de Equações",
-            "Equação do 2º Grau I - Equação do 2º Grau",
-            "Equação do 2º Grau II - Equação do 2º Grau",
+            "Equação do 2º Grau - Equação do 2º Grau",
             "Equações Especiais - Equações Especiais",
-            "Razão e Proporção I - Razão, Proporção e Regra de Três",
-            "Razão e Proporção II - Razão, Proporção e Regra de Três",
+            "Razão e Proporção - Razão, Proporção e Regra de Três",
             "Regra de Três Simples - Razão, Proporção e Regra de Três",
             "Regra de Três Composta - Razão, Proporção e Regra de Três",
             "Escalas - Escalas",
             "Sistemas de Numeração - Sistemas de Numeração",
-            "Porcentagem I - Porcentagem",
-            "Porcentagem II - Porcentagem",
+            "Porcentagem - Porcentagem",
             "Juros Simples - Juros",
             "Juros Compostos - Juros"
         ]
@@ -49,12 +44,10 @@
     },
     {
         "Funções": [
-            "Funções I - Introdução à Funções",
-            "Funções II - Introdução à Funções",
+            "Funções - Introdução à Funções",
             "Domínio de Funções - Domínio de Funções",
             "Funções Lineares - Função do 1º Grau",
-            "Função Afim I - Função do 1º Grau",
-            "Função Afim II - Função do 1º Grau",
+            "Função Afim - Função do 1º Grau",
             "Função do 2º Grau - Função do 2º Grau",
             "Raízes de uma Função do 2º Grau - Função do 2º Grau",
             "Vértice da Parábola - Máximos e Mínimos",
@@ -71,10 +64,8 @@
             "Inequação Quociente - Inequações",
             "Sistemas de Inequações - Inequações",
             "Paridade de Funções - Paridade de Funções",
-            "Classificação de Funções I - Classificação de Funções",
-            "Classificação de Funções II - Classificação de Funções",
-            "Função Inversa I - Função Inversa",
-            "Função Inversa II - Função Inversa",
+            "Classificação de Funções - Classificação de Funções",
+            "Função Inversa - Função Inversa",
             "Função Racional - Função Racional",
             "Função Irracional - Função Irracional"
         ]
@@ -82,8 +73,7 @@
     {
         "Módulo": [
             "Módulo - Introdução ao Módulo",
-            "Função Modular I - Função Modular",
-            "Função Modular II - Função Modular",
+            "Função Modular - Função Modular",
             "Equação Modular - Equação Modular",
             "Inequação Modular - Inequação Modular"
         ]
@@ -103,15 +93,13 @@
     },
     {
         "Geometria Plana": [
-            "Ângulos I - Fundamentos e Ângulos",
-            "Ângulos II - Fundamentos e Ângulos",
+            "Ângulos - Fundamentos e Ângulos",
             "Paralelismo e Suas Propriedades Geométricas - Fundamentos e Ângulos",
             "Problemas de Fundamentos da geometria plana - Fundamentos e Ângulos",
             "Triângulos Classificação e Propriedades - Triângulos",
             "Problemas de Triângulos - Triângulos",
-            "Cevianas de um triangulo e os pontos notáveis I - Triângulos",
-            "Cevianas de um triângulo II - Triângulos",
-            "Problemas de Cevianas de um Triângulo II - Triângulos",
+            "Cevianas de um triangulo e os pontos notáveis - Triângulos",
+            "Problemas de Cevianas de um Triângulo - Triângulos",
             "Triângulos Retângulos Especiais - Relações Métricas no Triângulo Retângulo",
             "Problemas de Triângulos Retângulos Especiais - Triângulos",
             "Congruência de Triângulos e Base Média - Triângulos",
@@ -124,28 +112,22 @@
             "Reta e circunferência - Posições Relativas com Circunferências",
             "Relações métricas na circunferência - Relações Métricas na Circunferência",
             "Problema de relações métricas na circunferência - Relações Métricas na Circunferência",
-            "Quadriláteros I - Quadriláteros",
-            "Quadriláteros II - Quadriláteros",
+            "Quadriláteros - Quadriláteros",
             "Problemas com quadriláteros - Quadriláteros",
-            "Polígonos I - Polígonos",
-            "Polígonos II - Polígonos",
+            "Polígonos - Polígonos",
             "Problemas com Polígonos - Polígonos",
-            "Áreas de Triângulos I - Triângulos",
-            "Problemas com Áreas de Triângulos I - Triângulos",
-            "Áreas de Triângulos II - Triângulos",
-            "Problemas com Áreas de Triângulos II - Triângulos",
+            "Áreas de Triângulos - Triângulos",
+            "Problemas com Áreas de Triângulos - Triângulos",
             "Área do Círculo e suas Partes - Circunferência e Círculo",
             "Problemas de áreas de círculos e suas partes - Circunferência e Círculo",
-            "Polígonos regulares inscritos e circunscritos na circunferência I - Polígonos Inscritos e Circunscritos",
             "Problemas com Polígonos regulares inscritos e circunscritos na circunferência - Polígonos Inscritos e Circunscritos",
-            "Polígonos regulares inscritos e circunscritos na circunferência II - Polígonos Inscritos e Circunscritos"
+            "Polígonos regulares inscritos e circunscritos na circunferência - Polígonos Inscritos e Circunscritos"
         ]
     },
     {
         "Trigonometria": [
             "Trigonometria no Triângulo Retângulo - Trigonometria no Triângulo Retângulo",
-            "Trigonometria | Conceitos Básicos I - Ângulos",
-            "Trigonometria | Conceitos Básicos II - Ângulos",
+            "Trigonometria | Conceitos Básicos - Ângulos",
             "Lei dos Senos - Trigonometria em Triângulos Quaisquer",
             "Lei dos Cossenos - Trigonometria em Triângulos Quaisquer",
             "Lei das Áreas - Trigonometria em Triângulos Quaisquer",
@@ -179,8 +161,7 @@
     },
     {
         "Matrizes": [
-            "Matrizes I - Matrizes e Operações com Matrizes",
-            "Matrizes II - Matrizes e Operações com Matrizes",
+            "Matrizes - Matrizes e Operações com Matrizes",
             "Operações com Matrizes - Matrizes e Operações com Matrizes",
             "Multiplicação de Matrizes - Matrizes e Operações com Matrizes",
             "Matriz Inversa - Matriz Inversa",
@@ -189,20 +170,17 @@
             "Teorema de Laplace - Determinantes de Ordem Superior a 3",
             "Chió e Vandermonde - Determinantes de Ordem Superior a 3",
             "Inversa de uma Matriz de Ordem 3 - Inversa de uma Matriz 3x3",
-            "Propriedades dos Determinantes I - Propriedades dos Determinantes",
-            "Propriedades dos Determinantes II - Propriedades dos Determinantes"
+            "Propriedades dos Determinantes - Propriedades dos Determinantes"
         ]
     },
     {
         "Sistemas Lineares": [
             "Sistemas Lineares: Introdução - Introdução à Sistemas Lineares",
             "Regra de Cramer - Regra de Cramer",
-            "Escalonamento I - Escalonamento",
-            "Escalonamento II - Escalonamento",
+            "Escalonamento - Escalonamento",
             "Equações Lineares - Equações Lineares",
-            "Discussão de Sistemas Lineares I - Discussão e Interpretação de Sistemas Lineares",
             "Interpretação Geométrica de Sistemas Lineares - Discussão e Interpretação de Sistemas Lineares",
-            "Discussão de Sistemas Lineares II - Discussão e Interpretação de Sistemas Lineares",
+            "Discussão de Sistemas Lineares - Discussão e Interpretação de Sistemas Lineares",
             "Sistemas Homogêneos - Sistema Linear Homogêneo"
         ]
     },
@@ -213,21 +191,17 @@
             "Poliedros - Poliedros",
             "Poliedros Regulares - Poliedros",
             "Planificações - Poliedros",
-            "Prismas I - Prismas",
-            "Prismas II - Prismas",
+            "Prismas - Prismas",
             "Problemas de Prismas - Prismas",
-            "Pirâmide I - Pirâmides",
-            "Pirâmide II - Pirâmides",
+            "Pirâmide - Pirâmides",
             "Tronco de Pirâmides - Pirâmides",
             "Cilindro - Cilindros",
             "Problemas de Cilindro - Cilindros",
             "Cone - Cones",
             "Tronco de Cone - Cones",
             "Problemas de Cone e Tronco de Cone - Cones",
-            "Esfera I - Esfera",
-            "Esfera II - Esfera",
-            "Inscrição e Circunscrição I - Inscrição e Circunscrição de Sólidos",
-            "Inscrição e Circunscrição II - Inscrição e Circunscrição de Sólidos",
+            "Esfera - Esfera",
+            "Inscrição e Circunscrição - Inscrição e Circunscrição de Sólidos",
             "Problemas de Inscrição e Circunscrição - Inscrição e Circunscrição de Sólidos",
             "Transformações Isométricas - Geometria de Posição"
         ]
@@ -257,8 +231,7 @@
             "Arranjo - Arranjo",
             "Números Binomiais - Número Binomial e Binômio de Newton",
             "Triângulo de Pascal - Número Binomial e Binômio de Newton",
-            "Binômio de Newton I - Número Binomial e Binômio de Newton",
-            "Binômio de Newton II - Número Binomial e Binômio de Newton"
+            "Binômio de Newton - Número Binomial e Binômio de Newton"
         ]
     },
     {
@@ -289,14 +262,12 @@
             "Áreas de Figuras Planas - Introdução à Geometria Analítica",
             "Equações da Reta - Equações da Reta",
             "Equação Reduzida - Equações da Reta",
-            "Posição entre Retas I - Posições entre Retas",
-            "Posição Entre Retas II - Posições entre Retas",
+            "Posição Entre Retas - Posições entre Retas",
             "Ângulo Entre Retas - Posições entre Retas",
             "Distância de Ponto à Reta - Posições entre Retas",
             "Equação Reduzida da Circunferência - Equações da Circunferência",
             "Equação Geral da Circunferência - Equações da Circunferência",
-            "Posições Relativas com Circunferências I - Posições entre Circunferências no Plano Cartesiano",
-            "Posições Relativas com Circunferências II - Posições entre Circunferências no Plano Cartesiano",
+            "Posições Relativas com Circunferências - Posições entre Circunferências no Plano Cartesiano",
             "Elipse - Cônicas",
             "Equação da Elipse - Cônicas",
             "Hipérbole - Cônicas",
@@ -313,8 +284,7 @@
             "Potências de base i - Forma Algébrica dos Complexos",
             "Representação geométrica de números complexos - Forma Algébrica dos Complexos",
             "Argumento de Forma Trigonométrica de um Número Complexo - Forma Trigonométrica dos Complexos",
-            "Operações na Forma Trigonométrica I - Forma Trigonométrica dos Complexos",
-            "Operações na Forma Trigonométrica II - Forma Trigonométrica dos Complexos",
+            "Operações na Forma Trigonométrica - Forma Trigonométrica dos Complexos",
             "Exercícios sobre números complexos - Forma Trigonométrica dos Complexos"
         ]
     },

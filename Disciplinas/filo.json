@@ -7,18 +7,12 @@
     },
     {
         "Filosofia Antiga": [
-            "Pré-Socráticos I - Pré-Socráticos",
-            "Pré-Socráticos II - Pré-Socráticos",
+            "Pré-Socráticos - Pré-Socráticos",
             "Sócrates - Sócrates e os Sofistas",
             "Sofistas - Sócrates e os Sofistas",
-            "Platão I - Platão",
-            "Platão II - Platão",
-            "Platão III - Platão",
-            "Aristóteles I - Aristóteles",
-            "Aristóteles II - Aristóteles",
-            "Aristóteles III - Aristóteles",
-            "Filosofia Helenística I - Filosofia Helenística",
-            "Filosofia Helenística II - Filosofia Helenística"
+            "Platão - Platão",
+            "Aristóteles - Aristóteles",
+            "Filosofia Helenística - Filosofia Helenística"
         ]
     },
     {
@@ -38,8 +32,7 @@
             "Utilitarismo - Utilitarismo",
             "Ética Kantiana X Ética Utilitarista - Filosofia Kantiana",
             "Francis Bacon - Racionalismo e Empirismo",
-            "René Descartes I - Racionalismo e Empirismo",
-            "René Descartes II - Racionalismo e Empirismo",
+            "René Descartes - Racionalismo e Empirismo",
             "Locke e Hume - Racionalismo e Empirismo"
         ]
     },
@@ -68,9 +61,7 @@
     },
     {
         "Psicanálise e Teoria Crítica": [
-            "Escola de Frankfurt I - Escola de Frankfurt",
-            "Escola de Frankfurt II - Escola de Frankfurt",
-            "Escola de Frankfurt III - Escola de Frankfurt",
+            "Escola de Frankfurt - Escola de Frankfurt",
             "Círculo de Viena - Psicanálise, Teórica Crítica e Filosofia da Ciência",
             "Sigmund Freud - Psicanálise, Teórica Crítica e Filosofia da Ciência"
         ]

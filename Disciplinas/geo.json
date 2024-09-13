@@ -38,60 +38,46 @@
             "Origem da Terra - Origem da Terra",
             "Tectonismo - Placas Tectônicas",
             "Terremotos e Abalos Sísmicos - Placas Tectônicas",
-            "Rochas I - Rochas",
-            "Rochas II - Rochas",
-            "Eras Geológicas I - Eras Geológicas",
-            "Eras Geológicas II - Eras Geológicas",
+            "Rochas - Rochas",
+            "Eras Geológicas - Eras Geológicas",
             "Geologia do Brasil - Geologia do Brasil"
         ]
     },
     {
         "Geomorfologia": [
             "Agentes internos do relevo - Relevo",
-            "Agentes externos do relevo I - Relevo",
-            "Agentes externos do relevo II - Relevo",
+            "Agentes externos do relevo - Relevo",
             "Geomorfologia do Brasil - Relevo do Brasil"
         ]
     },
     {
         "Minérios e Minerais": [
             "Recursos Minerais - Recursos Minerais",
-            "Recursos Minerais do Brasil I - Recursos Minerais",
-            "Recursos Minerais do Brasil II - Recursos Minerais"
+            "Recursos Minerais do Brasil - Recursos Minerais"
         ]
     },
     {
         "Clima": [
             "Atmosfera - A Atmosfera",
-            "Fatores e Determinantes do Clima I - A Atmosfera",
-            "Fatores e Determinantes do Clima II - A Atmosfera",
-            "Elementos Climáticos I - Elementos Climáticos",
-            "Elementos Climáticos II - Elementos Climáticos",
-            "Elementos Climáticos III - Elementos Climáticos",
-            "Climas Mundiais I - Climas Mundiais",
-            "Climas Mundiais II - Climas Mundiais",
-            "Fenômenos Atmosféricos I - Fenômenos Atmosféricos",
-            "Fenômenos Atmosféricos II - Fenômenos Atmosféricos",
-            "Climas do Brasil I - Climas do Brasil",
-            "Climas do Brasil II - Climas do Brasil"
+            "Fatores e Determinantes do Clima - A Atmosfera",
+            "Elementos Climáticos - Elementos Climáticos",
+            "Climas Mundiais - Climas Mundiais",
+            "Fenômenos Atmosféricos - Fenômenos Atmosféricos",
+            "Climas do Brasil - Climas do Brasil"
         ]
     },
     {
         "Hidrosfera": [
             "Oceanos e Mares - Hidrosfera",
             "Rios - Hidrosfera",
-            "Usos da Água I - Recursos Hídricos",
-            "Usos da Água II - Recursos Hídricos",
-            "Regiões Hidrográficas do Brasil I - Hidrografia do Brasil",
-            "Regiões Hidrográficas do Brasil II - Hidrografia do Brasil"
+            "Usos da Água - Recursos Hídricos",
+            "Regiões Hidrográficas do Brasil - Hidrografia do Brasil"
         ]
     },
     {
         "Biomas": [
-            "Os Grandes Biomas I - Os Grandes Biomas",
-            "Os Grandes Biomas II - Os Grandes Biomas",
-            "Biomas e Ecossistemas Brasileiros I - Biomas e Ecossistemas Brasileiros",
-            "Biomas e Ecossistemas Brasileiros II - Biomas e Ecossistemas Brasileiros"
+            "Os Grandes Biomas - Os Grandes Biomas",
+            "Biomas e Ecossistemas Brasileiros - Biomas e Ecossistemas Brasileiros"
         ]
     },
     {
@@ -102,15 +88,13 @@
             "Cerrado - Caatinga, Pradaria e Cerrado",
             "Mares de Morros - Mares de Morros e Mata de Araucárias",
             "Mata de Araucárias - Mares de Morros e Mata de Araucárias",
-            "Domínio Amazônico I - A Amazônia",
-            "Domínio Amazônico II - A Amazônia",
+            "Domínio Amazônico - A Amazônia",
             "As Faixas de Transição - A Amazônia"
         ]
     },
     {
         "Solos": [
-            "Solos I - Solos",
-            "Solos II - Solos"
+            "Solos - Solos"
         ]
     },
     {
@@ -120,11 +104,9 @@
             "Agricultura Mundial - Agricultura no Mundo e Revolução Verde",
             "Agricultura e o Comércio Global - Agricultura no Mundo e Revolução Verde",
             "Revolução Verde e a Modernização do Campo - Agricultura no Mundo e Revolução Verde",
-            "Questão Fundiária do Brasil I - Questão Fundiária no Brasil",
-            "Questão Fundiária do Brasil II - Questão Fundiária no Brasil",
+            "Questão Fundiária do Brasil - Questão Fundiária no Brasil",
             "Conflitos Agrários no Brasil - Conflitos Agrários no Brasil",
-            "Produção Agrícola Brasileira I - Produção Agrícola e Pecuária no Brasil",
-            "Produção Agrícola Brasileira II - Produção Agrícola e Pecuária no Brasil",
+            "Produção Agrícola Brasileira - Produção Agrícola e Pecuária no Brasil",
             "Produção Pecuária Brasileira - Produção Agrícola e Pecuária no Brasil"
         ]
     },
@@ -133,8 +115,7 @@
             "1º Revolução Industrial - Revolução Industrial",
             "2° Revolução Industrial - Revolução Industrial",
             "3° Revolução Industrial - Revolução Industrial",
-            "Indústria no Brasil I - Indústria no Brasil",
-            "Indústria no Brasil II - Indústria no Brasil"
+            "Indústria no Brasil - Indústria no Brasil"
         ]
     },
     {
@@ -144,27 +125,22 @@
             "Conceitos e Nomenclatura das Cidades - Nações do Sul e do Norte e Nomenclaturas das Cidades",
             "A Hierarquia Urbana - Nações do Sul e do Norte e Nomenclaturas das Cidades",
             "Urbanização Brasileira - Urbanização Brasileira",
-            "Problemas Urbanos I - Problemas Urbanos",
-            "Problemas Urbanos II - Problemas Urbanos"
+            "Problemas Urbanos - Problemas Urbanos"
         ]
     },
     {
         "Questões Ambientais": [
-            "Questões Ambientais I - Questões Atmosféricas",
-            "Questões Ambientais II - Questões Atmosféricas",
-            "Aquecimento Global I - Aquecimento Global e Rejeitos",
-            "Aquecimento Global II - Aquecimento Global e Rejeitos",
+            "Questões Ambientais - Questões Atmosféricas",
+            "Aquecimento Global - Aquecimento Global e Rejeitos",
             "Resíduos e Rejeitos - Aquecimento Global e Rejeitos",
             "Conferências Ambientais - Conferências Globais"
         ]
     },
     {
         "Fontes de Energia": [
-            "Energias não renováveis I - Energias Renováveis e Não Renováveis",
-            "Energias não renováveis II - Energias Renováveis e Não Renováveis",
+            "Energias não renováveis - Energias Renováveis e Não Renováveis",
             "Fontes de Energia Hidrelétricas - Energias Renováveis e Não Renováveis",
-            "Fontes de Energia Renováveis I - Energias Renováveis e Não Renováveis",
-            "Fontes de Energia Renováveis II - Energias Renováveis e Não Renováveis"
+            "Fontes de Energia Renováveis - Energias Renováveis e Não Renováveis"
         ]
     },
     {
@@ -183,8 +159,7 @@
         "Migrações": [
             "Conceitos e Definições Migratórias - Migrações",
             "Migrações Internas - Imigração e Emigração",
-            "Fluxos Migratórios Mundiais I - Fluxos Migratórios",
-            "Fluxos Migratórios Mundiais II - Fluxos Migratórios"
+            "Fluxos Migratórios Mundiais - Fluxos Migratórios"
         ]
     },
     {
@@ -200,8 +175,7 @@
         "Geopolítica": [
             "Velha Ordem Mundial - Ordem Política Mundial",
             "Nova Ordem Mundial - Ordem Política Mundial",
-            "Globalização I - Globalização",
-            "Globalização II - Globalização",
+            "Globalização - Globalização",
             "Globalização: Aspectos Brasileiros - Globalização",
             "Economia Global e os Mercados Financeiros - Globalização",
             "O Espaço Industrial Globalizado - Espaço Industrial Globalizado",
@@ -212,8 +186,7 @@
         "Blocos Econômicos": [
             "Introdução: Blocos Econômicos e USMCA - Blocos Econômicos",
             "Mercosul - Blocos Econômicos",
-            "União Europeia I - Blocos Econômicos",
-            "União Europeia II - Blocos Econômicos"
+            "União Europeia - Blocos Econômicos"
         ]
     },
     {
@@ -226,13 +199,10 @@
     },
     {
         "Transportes, Comércio e Serviços": [
-            "Transportes e Comércio Exterior I - Transportes e Comércio Exterior",
-            "Transportes e Comércio Exterior II - Transportes e Comércio Exterior",
+            "Transportes e Comércio Exterior - Transportes e Comércio Exterior",
             "Tecnologia e Redes - Tecnologia e Redes",
-            "Transportes no Brasil I - Transportes no Brasil",
-            "Transportes no Brasil II - Transportes no Brasil",
-            "Setores da Economia I - Comércio e Serviços",
-            "Setores da Economia II - Comércio e Serviços"
+            "Transportes no Brasil - Transportes no Brasil",
+            "Setores da Economia - Comércio e Serviços"
         ]
     },
     {
@@ -246,37 +216,26 @@
     },
     {
         "Volta ao Mundo": [
-            "Europa I - Europa",
-            "Europa II - Europa",
-            "Europa III - Europa",
+            "Europa - Europa",
             "Europa: Conflitos - Europa",
             "Comunidade dos Estados Independentes - Comunidade dos Estados Independentes",
             "América Anglo-Saxônica - América Anglo-saxônica",
             "Japão - Japão, China e Tigres Asiáticos",
             "Tigres Asiáticos - Japão, China e Tigres Asiáticos",
-            "China I - Japão, China e Tigres Asiáticos",
-            "China II - Japão, China e Tigres Asiáticos",
+            "China - Japão, China e Tigres Asiáticos",
             "Coreia - Coreias",
             "Coreia do Sul - Coreias",
             "Coreia do Norte - Coreias",
-            "Oriente Médio I - Oriente Médio",
-            "Oriente Médio II - Oriente Médio",
-            "Oriente Médio III - Oriente Médio",
-            "África I - África",
-            "África II - África",
-            "África III - África",
+            "Oriente Médio - Oriente Médio",
+            "África - África",
             "México - México, América Central e Caribe",
             "América Central e Caribe - México, América Central e Caribe",
             "Cuba - México, América Central e Caribe",
-            "América do Sul I - América do Sul",
-            "América do Sul II - América do Sul",
-            "América do Sul III - América do Sul",
+            "América do Sul - América do Sul",
             "América Andina - América do Sul",
             "América Platina - América do Sul",
-            "Índia I - Índia",
-            "Índia II - Índia",
-            "Oceania I - Oceania",
-            "Oceania II - Oceania",
+            "Índia - Índia",
+            "Oceania - Oceania",
             "Regiões Polares - Regiões Polares"
         ]
     },

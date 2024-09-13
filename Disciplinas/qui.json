@@ -25,17 +25,14 @@
             "Partículas Subatômicas - Partículas Subatômicas",
             "Semelhanças Atômicas - Propriedades Interatômicas",
             "Modelo Atômico Atual - Modelo Atômico Atual",
-            "Distribuição Eletrônica I - Distribuição Eletrônica",
-            "Distribuição Eletrônica II - Distribuição Eletrônica",
+            "Distribuição Eletrônica - Distribuição Eletrônica",
             "Resolução de Exercícios: Distribuição Eletrônica - Distribuição Eletrônica",
             "Números Quânticos - Números Quânticos",
             "Histórico da Tabela Periódica - Tabela Periódica",
             "Tabela Periódica - Tabela Periódica",
             "Resolução de Exercícios: Tabela Periódica - Tabela Periódica",
-            "Distribuição Eletrônica na Tabela Periódica I - Tabela Periódica",
-            "Distribuição Eletrônica na Tabela Periódica II - Tabela Periódica",
-            "Propriedades Periódicas I - Propriedades Periódicas",
-            "Propriedades Periódicas II - Propriedades Periódicas"
+            "Distribuição Eletrônica na Tabela Periódica - Tabela Periódica",
+            "Propriedades Periódicas - Propriedades Periódicas"
         ]
     },
     {
@@ -106,8 +103,7 @@
             "Soluções - Soluções",
             "Coeficiente de Solubilidade - Coeficiente de Solubilidade",
             "Curvas de Solubilidade - Curvas de Solubilidade",
-            "Concentração Comum I - Concentração Comum",
-            "Concentração Comum II - Concentração Comum",
+            "Concentração Comum - Concentração Comum",
             "Título em Massa e Volume - Título e Percentual",
             "ppm e ppb - PPM e PPB",
             "Concentração Molar - Concentração Molar",
@@ -121,8 +117,7 @@
         "Estudo dos Gases": [
             "Estado Gasoso - Teoria Cinética dos Gases",
             "Transformações Gasosas - Transformações Gasosas",
-            "Equação de Clapeyron I - Equação de Clapeyron",
-            "Equação de Clapeyron II - Equação de Clapeyron",
+            "Equação de Clapeyron - Equação de Clapeyron",
             "Misturas Gasosas - Misturas Gasosas",
             "Densidade Gasosa - Propriedades Gasosas",
             "Difusão e Efusão de Gases - Propriedades Gasosas",
@@ -203,8 +198,7 @@
             "Representação de Fórmulas Estruturais - Cadeias Carbônicas",
             "Classificação das Cadeias Carbônicas - Cadeias Carbônicas",
             "Cadeias Aromáticas - Cadeias Carbônicas",
-            "Nomenclatura dos Compostos Orgânicos I - Hidrocarbonetos",
-            "Nomenclatura dos Compostos Orgânicos II - Hidrocarbonetos",
+            "Nomenclatura dos Compostos Orgânicos - Hidrocarbonetos",
             "Petróleo: A Química e os Impactos - Hidrocarbonetos"
         ]
     }

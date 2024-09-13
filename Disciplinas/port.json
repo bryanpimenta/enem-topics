@@ -17,8 +17,7 @@
             "Introdução às classes de palavras - Classes de palavras",
             "Substantivos e Artigos - Substantivos e Artigos",
             "Adjetivos - Adjetivos",
-            "Pronomes I - Pronomes",
-            "Pronomes II - Pronomes",
+            "Pronomes - Pronomes",
             "Numeral, Interjeição e Preposição - Numeral, Interjeição e Preposição",
             "Conjunções - Conjunção",
             "Verbos - Verbo",
@@ -42,8 +41,7 @@
             "Pronomes Pessoais - Pronomes Pessoais",
             "Pronomes Possessivos e Demonstrativos - Pronomes Possessivos e Demonstrativos",
             "Pronomes Indefinidos e Relativos - Pronomes Indefinidos e Relativos",
-            "Colocação Pronominal I - Colocação Pronominal",
-            "Colocação Pronominal II - Colocação Pronominal"
+            "Colocação Pronominal - Colocação Pronominal"
         ]
     },
     {
@@ -70,10 +68,8 @@
     },
     {
         "Concordância": [
-            "Concordância Nominal I - Concordância Nominal",
-            "Concordância Nominal II - Concordância Nominal",
-            "Concordância Verbal I - Concordância Verbal",
-            "Concordância Verbal II - Concordância Verbal"
+            "Concordância Nominal - Concordância Nominal",
+            "Concordância Verbal - Concordância Verbal"
         ]
     },
     {
@@ -118,8 +114,7 @@
             "Fonologia - Fonologia",
             "Acentuação - Acentuação | Regra Geral",
             "Casos Especiais de Acentuação - Acentuação | Casos Especial",
-            "Ortografia I - Ortografia",
-            "Ortografia II - Ortografia",
+            "Ortografia - Ortografia",
             "Hífen - Uso do Hífen",
             "Usos dos Porquês - Uso dos Porquês"
         ]
@@ -149,9 +144,7 @@
     {
         "Figuras de Linguagem": [
             "Semântica - Semântica e Figuras de Linguagem",
-            "Figuras de Linguagem I - Figuras de Linguagem",
-            "Figuras de Linguagem II - Figuras de Linguagem",
-            "Figuras de Linguagem III - Figuras de Linguagem",
+            "Figuras de Linguagem - Figuras de Linguagem",
             "Figuras de Repetição - Outras Figuras de Linguagem",
             "Outras Figuras de Linguagem - Outras Figuras de Linguagem",
             "Vícios de Linguagem - Outras Figuras de Linguagem"
@@ -161,10 +154,8 @@
         "Linguagem Culta e Coloquial": [
             "Linguagem Culta x Coloquial - Linguagem Culta x Coloquial",
             "Outros Tipos de Linguagem - Outros Tipos de Linguagem",
-            "Marcas de Coloquialismo I - Marcas de Coloquialismo I",
-            "Marcas de Coloquialismo II - Marcas de Coloquialismo II",
-            "Variação Linguística I - Variação Linguística I",
-            "Variação Linguística II - Variação Linguística II",
+            "Marcas de Coloquialismo - Marcas de Coloquialismo",
+            "Variação Linguística - Variação Linguística",
             "Sotaque e Dialeto - Sotaque e Dialeto"
         ]
     },

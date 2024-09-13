@@ -52,18 +52,12 @@
     },
     {
         "Biomas do Brasil": [
-            "Pantanal | Parte 1 - Pantanal",
-            "Pantanal | Parte 2 - Pantanal",
-            "Pampa | Parte 1 - Pampa",
-            "Pampa | Parte 2 - Pampa",
-            "Caatinga | Parte 1 - Caatinga",
-            "Caatinga | Parte 2 - Caatinga",
-            "Mata Atlântica | Parte 1 - Mata Atlântica",
-            "Mata Atlântica | Parte 2 - Mata Atlântica",
-            "Cerrado | Parte 1 - Cerrado",
-            "Cerrado | Parte 2 - Cerrado",
-            "Amazônia | Parte 1 - Amazônia",
-            "Amazônia | Parte 2 - Amazônia",
+            "Pantanal - Pantanal",
+            "Pampa - Pampa",
+            "Caatinga- Caatinga",
+            "Mata Atlântica - Mata Atlântica",
+            "Cerrado - Cerrado",
+            "Amazônia - Amazônia",
             "Floresta de Araucárias - Floresta de Araucárias",
             "Restinga - Restinga",
             "Manguezal - Manguezal"
@@ -81,8 +75,7 @@
             "Compostos Orgânicos: Vitaminas - Vitaminas",
             "Compostos Orgânicos: Ácidos Nucleicos (DNA) - Ácidos Nucleicos",
             "Compostos Orgânicos: Ácidos Nucleicos (RNA) - Ácidos Nucleicos",
-            "Síntese Proteica | Parte I - Síntese Proteica",
-            "Síntese Proteica | Parte II - Síntese Proteica"
+            "Síntese Proteica - Síntese Proteica"
         ]
     },
     {
@@ -132,8 +125,7 @@
             "Mitose nas Células Vegetais - Mitose",
             "Divisão Celular nas Bactérias - Divisões Celulares",
             "O que é Meiose? - Meiose",
-            "Meiose I - Meiose",
-            "Meiose II - Meiose",
+            "Meiose - Meiose",
             "Diferenças entre Mitose e Meiose - Divisões Celulares"
         ]
     },
@@ -224,28 +216,23 @@
     },
     {
         "Classificação dos Seres Vivos": [
-            "Sistemática, Taxonomia e Filogenia | Parte I - Classificação dos seres vivos",
-            "Sistemática, Taxonomia e Filogenia | Parte II - Classificação dos seres vivos"
+            "Sistemática, Taxonomia e Filogenia - Classificação dos seres vivos"
         ]
     },
     {
         "Microbiologia": [
             "Vírus, Viroides e Príons - Vírus",
-            "Doenças Virais | Parte I - Doenças Virais",
-            "Doenças Virais | Parte II - Doenças Virais",
+            "Doenças Virais- Doenças Virais",
             "Vacinas e Soros - Microrganismos, Vacina e Soro",
             "Febre Chikungunya - Doenças Virais",
-            "Reino Monera | Parte I - Reino Monera",
+            "Reino Monera - Reino Monera",
             "Dengue - Vírus",
-            "Reino Monera | Parte II - Reino Monera",
-            "Doenças Bacterianas | Parte I - Doenças Bacterianas",
+            "Doenças Bacterianas - Doenças Bacterianas",
             "Febre Hemorrágica Ebola - Doenças Virais",
-            "Doenças Bacterianas | Parte II - Doenças Bacterianas",
             "Antibióticos - Doenças Bacterianas",
             "Reino Protista | Algas - Protistas",
             "Reino Protista | Protozoários - Protistas",
-            "Protozooses | Parte I - Protistas",
-            "Protozooses | Parte II - Protistas"
+            "Protozooses - Protistas"
         ]
     },
     {
@@ -268,8 +255,7 @@
             "Raízes - Anatomia Vegetal",
             "Caules - Anatomia Vegetal",
             "Folhas - Anatomia Vegetal",
-            "Histologia Vegetal I - Histologia Vegetal",
-            "Histologia Vegetal II - Histologia Vegetal",
+            "Histologia Vegetal - Histologia Vegetal",
             "Transpiração Vegetal - Fisiologia vegetal",
             "Transporte de Seiva - Fisiologia vegetal",
             "Movimentos Vegetais - Fisiologia vegetal",

@@ -36,15 +36,13 @@
             "O Mercantilismo - Mercantilismo",
             "Absolutismo Monárquico: França e Inglaterra - Absolutismo",
             "Absolutismo Monárquico: Reinos Ibéricos - Mercantilismo",
-            "O Renascimento Cultural I - Renascimento Cultural",
-            "O Renascimento Cultural II - Renascimento Cultural",
+            "O Renascimento Cultural - Renascimento Cultural",
             "As Grandes Navegações - Grandes Navegações",
             "Reinos Africanos - Reinos africanos e a chegada dos portugueses",
             "A Chegada dos Portugueses em África - Reinos africanos e a chegada dos portugueses",
             "América Pré-Colombiana - Colonização da América",
             "Colonização da América Espanhola - Colonização da América",
-            "Reforma Protestante I - Reformas Religiosas",
-            "A Reforma Protestante II - Reformas Religiosas",
+            "A Reforma Protestante - Reformas Religiosas",
             "Revoluções Inglesas - Revoluções Inglesas do século XVII",
             "Iluminismo - Iluminismo",
             "Independência dos EUA - Independência dos EUA"
@@ -56,8 +54,7 @@
             "Povos Indígenas no Brasil pré-Colonial - Povos Indígenas no Brasil Colonial",
             "Povos Indígenas no Brasil Colonial - Povos Indígenas no Brasil Colonial",
             "Formação do Território Brasileiro - Formação do Território Brasileiro",
-            "Escravidão Negra no Brasil Colônia I - Escravidão Negra no Brasil Colônia",
-            "Escravidão Negra no Brasil Colônia II - Escravidão Negra no Brasil Colônia",
+            "Escravidão Negra no Brasil Colônia - Escravidão Negra no Brasil Colônia",
             "Ciclo do Açúcar - Brasil: Ciclo do Açúcar",
             "Invasões Estrangeiras no Brasil - Invasões Estrangeiras no Brasil Colônia",
             "Revoltas Nativistas - Revoltas Nativistas",
@@ -78,7 +75,6 @@
             "Revoluções Liberais - Congresso de Viena e Revoluções Liberais",
             "Segunda Revolução Industrial - Revolução Industrial",
             "Imperialismo e Neocolonialismo - Imperialismo/Neocolonialismo",
-            "Imperialismo e Neocolonialismo II - Imperialismo/Neocolonialismo",
             "Unificação da Alemanha e Unificação da Itália - Unificação Alemã e Unificação Italiana"
         ]
     },
@@ -113,14 +109,11 @@
     },
     {
         "Conflitos do Século XX": [
-            "Primeira Guerra Mundial I - Primeira Guerra Mundial",
+            "Primeira Guerra Mundial - Primeira Guerra Mundial",
             "Formação da URSS - A Revolução Russa e a Formação da URSS",
-            "Primeira Guerra Mundial II - Primeira Guerra Mundial",
             "Guerra Civil Espanhola - Guerra Civil Espanhola",
-            "Segunda Guerra Mundial I - Segunda Guerra Mundial",
-            "Segunda Guerra Mundial II - Segunda Guerra Mundial",
-            "Guerra Fria I - Guerra Fria",
-            "Guerra Fria II - Guerra Fria",
+            "Segunda Guerra Mundial - Segunda Guerra Mundial",
+            "Guerra Fria - Guerra Fria",
             "Revolução Chinesa - Revolução Chinesa",
             "Revolução Cubana - Revolução Cubana",
             "A Independência da Índia e a Guerra da Coréia - A Independência da Índia e a Guerra da Coreia",
@@ -140,12 +133,8 @@
     },
     {
         "Estado Novo e Populismo": [
-            "Era Vargas I - Brasil: A Era Vargas",
-            "Era Vargas II - Brasil: A Era Vargas",
-            "Era Vargas III - Brasil: A Era Vargas",
-            "República Populista I - Brasil: Populismo",
-            "República Populista II - Brasil: Populismo",
-            "República Populista III - Brasil: Populismo"
+            "Era Vargas - Brasil: A Era Vargas",
+            "República Populista - Brasil: Populismo"
         ]
     },
     {
@@ -160,9 +149,7 @@
     },
     {
         "Nova República": [
-            "Nova República I - Nova República",
-            "Nova República II - Nova República",
-            "Nova República III - Nova República",
+            "Nova República - Nova República",
             "Povos Indígenas no Brasil Contemporâneo - Povos Indígenas no Brasil Contemporâneo"
         ]
     },
@@ -188,11 +175,8 @@
             "Arte Neoclássica e Romântica - Arte Neoclássica e Romântica",
             "Vanguardas Europeias - Vanguardas Europeias",
             "Introdução à Arte Contemporânea - Introdução à Arte Contemporânea",
-            "História da Arte Contemporânea I - Arte Contemporânea I",
-            "História da Arte Contemporânea II - Arte Contemporânea II",
-            "História da Arte no Brasil I - História da Arte no Brasil",
-            "História da Arte no Brasil II - História da Arte no Brasil",
-            "História da Arte no Brasil III - História da Arte no Brasil"
+            "História da Arte Contemporânea - Arte Contemporânea ",
+            "História da Arte no Brasil - História da Arte no Brasil"
         ]
     }
 ]
